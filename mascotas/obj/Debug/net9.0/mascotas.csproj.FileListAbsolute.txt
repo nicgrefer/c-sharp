@@ -1,0 +1,15 @@
+C:\Users\jovcubni\Desktop\c sharp\c-\mascotas\bin\Debug\net9.0\mascotas.exe
+C:\Users\jovcubni\Desktop\c sharp\c-\mascotas\bin\Debug\net9.0\mascotas.deps.json
+C:\Users\jovcubni\Desktop\c sharp\c-\mascotas\bin\Debug\net9.0\mascotas.runtimeconfig.json
+C:\Users\jovcubni\Desktop\c sharp\c-\mascotas\bin\Debug\net9.0\mascotas.dll
+C:\Users\jovcubni\Desktop\c sharp\c-\mascotas\bin\Debug\net9.0\mascotas.pdb
+C:\Users\jovcubni\Desktop\c sharp\c-\mascotas\obj\Debug\net9.0\mascotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jovcubni\Desktop\c sharp\c-\mascotas\obj\Debug\net9.0\mascotas.AssemblyInfoInputs.cache
+C:\Users\jovcubni\Desktop\c sharp\c-\mascotas\obj\Debug\net9.0\mascotas.AssemblyInfo.cs
+C:\Users\jovcubni\Desktop\c sharp\c-\mascotas\obj\Debug\net9.0\mascotas.csproj.CoreCompileInputs.cache
+C:\Users\jovcubni\Desktop\c sharp\c-\mascotas\obj\Debug\net9.0\mascotas.sourcelink.json
+C:\Users\jovcubni\Desktop\c sharp\c-\mascotas\obj\Debug\net9.0\mascotas.dll
+C:\Users\jovcubni\Desktop\c sharp\c-\mascotas\obj\Debug\net9.0\refint\mascotas.dll
+C:\Users\jovcubni\Desktop\c sharp\c-\mascotas\obj\Debug\net9.0\mascotas.pdb
+C:\Users\jovcubni\Desktop\c sharp\c-\mascotas\obj\Debug\net9.0\mascotas.genruntimeconfig.cache
+C:\Users\jovcubni\Desktop\c sharp\c-\mascotas\obj\Debug\net9.0\ref\mascotas.dll
