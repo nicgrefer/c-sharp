@@ -55,6 +55,8 @@ namespace Maskotas
             list.Add(new Mascota("Rocky", 3, "Perro"));
             list.Add(new Mascota("Mishi", 3, "Gato"));
             list.Add(new Mascota("Piolín", 2, "Canario"));
+            // Para cuando cerramos la app la lista se pierde por lo que no es persistente
+            // Para eso necesitamos una base de datos
             foreach (Mascota mascota in list)
             {
                 Console.WriteLine($"Mascota: {mascota.Nombre}, Edad Humana: {mascota.EdadHumana()}");
