@@ -8,24 +8,25 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\nicol\\.nuget\\packages\\": {}
+    "/home/coni/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nicol\\OneDrive\\Escritorio\\github\\c-sharp\\mascotas\\mascotas.csproj",
+      "projectUniqueName": "/home/coni/c-sharp/mascotas/mascotas.csproj",
       "projectName": "mascotas",
-      "projectPath": "C:\\Users\\nicol\\OneDrive\\Escritorio\\github\\c-sharp\\mascotas\\mascotas.csproj",
-      "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nicol\\OneDrive\\Escritorio\\github\\c-sharp\\mascotas\\obj\\",
+      "projectPath": "/home/coni/c-sharp/mascotas/mascotas.csproj",
+      "packagesPath": "/home/coni/.nuget/packages/",
+      "outputPath": "/home/coni/c-sharp/mascotas/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\nicol\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/coni/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
+        "/usr/lib64/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -44,7 +45,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net9.0": {
@@ -65,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/9.0.109/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

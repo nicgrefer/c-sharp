@@ -1,30 +1,45 @@
-C:\Users\jovcubni\Desktop\c sharp\c-\mascotas\bin\Debug\net9.0\mascotas.exe
-C:\Users\jovcubni\Desktop\c sharp\c-\mascotas\bin\Debug\net9.0\mascotas.deps.json
-C:\Users\jovcubni\Desktop\c sharp\c-\mascotas\bin\Debug\net9.0\mascotas.runtimeconfig.json
-C:\Users\jovcubni\Desktop\c sharp\c-\mascotas\bin\Debug\net9.0\mascotas.dll
-C:\Users\jovcubni\Desktop\c sharp\c-\mascotas\bin\Debug\net9.0\mascotas.pdb
-C:\Users\jovcubni\Desktop\c sharp\c-\mascotas\obj\Debug\net9.0\mascotas.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\jovcubni\Desktop\c sharp\c-\mascotas\obj\Debug\net9.0\mascotas.AssemblyInfoInputs.cache
-C:\Users\jovcubni\Desktop\c sharp\c-\mascotas\obj\Debug\net9.0\mascotas.AssemblyInfo.cs
-C:\Users\jovcubni\Desktop\c sharp\c-\mascotas\obj\Debug\net9.0\mascotas.csproj.CoreCompileInputs.cache
-C:\Users\jovcubni\Desktop\c sharp\c-\mascotas\obj\Debug\net9.0\mascotas.sourcelink.json
-C:\Users\jovcubni\Desktop\c sharp\c-\mascotas\obj\Debug\net9.0\mascotas.dll
-C:\Users\jovcubni\Desktop\c sharp\c-\mascotas\obj\Debug\net9.0\refint\mascotas.dll
-C:\Users\jovcubni\Desktop\c sharp\c-\mascotas\obj\Debug\net9.0\mascotas.pdb
-C:\Users\jovcubni\Desktop\c sharp\c-\mascotas\obj\Debug\net9.0\mascotas.genruntimeconfig.cache
-C:\Users\jovcubni\Desktop\c sharp\c-\mascotas\obj\Debug\net9.0\ref\mascotas.dll
-C:\Users\nicol\OneDrive\Escritorio\github\c-sharp\mascotas\bin\Debug\net9.0\mascotas.exe
-C:\Users\nicol\OneDrive\Escritorio\github\c-sharp\mascotas\bin\Debug\net9.0\mascotas.deps.json
-C:\Users\nicol\OneDrive\Escritorio\github\c-sharp\mascotas\bin\Debug\net9.0\mascotas.runtimeconfig.json
-C:\Users\nicol\OneDrive\Escritorio\github\c-sharp\mascotas\bin\Debug\net9.0\mascotas.dll
-C:\Users\nicol\OneDrive\Escritorio\github\c-sharp\mascotas\bin\Debug\net9.0\mascotas.pdb
-C:\Users\nicol\OneDrive\Escritorio\github\c-sharp\mascotas\obj\Debug\net9.0\mascotas.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\nicol\OneDrive\Escritorio\github\c-sharp\mascotas\obj\Debug\net9.0\mascotas.AssemblyInfoInputs.cache
-C:\Users\nicol\OneDrive\Escritorio\github\c-sharp\mascotas\obj\Debug\net9.0\mascotas.AssemblyInfo.cs
-C:\Users\nicol\OneDrive\Escritorio\github\c-sharp\mascotas\obj\Debug\net9.0\mascotas.csproj.CoreCompileInputs.cache
-C:\Users\nicol\OneDrive\Escritorio\github\c-sharp\mascotas\obj\Debug\net9.0\mascotas.sourcelink.json
-C:\Users\nicol\OneDrive\Escritorio\github\c-sharp\mascotas\obj\Debug\net9.0\mascotas.dll
-C:\Users\nicol\OneDrive\Escritorio\github\c-sharp\mascotas\obj\Debug\net9.0\refint\mascotas.dll
-C:\Users\nicol\OneDrive\Escritorio\github\c-sharp\mascotas\obj\Debug\net9.0\mascotas.pdb
-C:\Users\nicol\OneDrive\Escritorio\github\c-sharp\mascotas\obj\Debug\net9.0\mascotas.genruntimeconfig.cache
-C:\Users\nicol\OneDrive\Escritorio\github\c-sharp\mascotas\obj\Debug\net9.0\ref\mascotas.dll
+C:/Users/jovcubni/Desktop/c sharp/c-/mascotas/bin/Debug/net9.0/mascotas.exe
+C:/Users/jovcubni/Desktop/c sharp/c-/mascotas/bin/Debug/net9.0/mascotas.deps.json
+C:/Users/jovcubni/Desktop/c sharp/c-/mascotas/bin/Debug/net9.0/mascotas.runtimeconfig.json
+C:/Users/jovcubni/Desktop/c sharp/c-/mascotas/bin/Debug/net9.0/mascotas.dll
+C:/Users/jovcubni/Desktop/c sharp/c-/mascotas/bin/Debug/net9.0/mascotas.pdb
+C:/Users/jovcubni/Desktop/c sharp/c-/mascotas/obj/Debug/net9.0/mascotas.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/jovcubni/Desktop/c sharp/c-/mascotas/obj/Debug/net9.0/mascotas.AssemblyInfoInputs.cache
+C:/Users/jovcubni/Desktop/c sharp/c-/mascotas/obj/Debug/net9.0/mascotas.AssemblyInfo.cs
+C:/Users/jovcubni/Desktop/c sharp/c-/mascotas/obj/Debug/net9.0/mascotas.csproj.CoreCompileInputs.cache
+C:/Users/jovcubni/Desktop/c sharp/c-/mascotas/obj/Debug/net9.0/mascotas.sourcelink.json
+C:/Users/jovcubni/Desktop/c sharp/c-/mascotas/obj/Debug/net9.0/mascotas.dll
+C:/Users/jovcubni/Desktop/c sharp/c-/mascotas/obj/Debug/net9.0/refint/mascotas.dll
+C:/Users/jovcubni/Desktop/c sharp/c-/mascotas/obj/Debug/net9.0/mascotas.pdb
+C:/Users/jovcubni/Desktop/c sharp/c-/mascotas/obj/Debug/net9.0/mascotas.genruntimeconfig.cache
+C:/Users/jovcubni/Desktop/c sharp/c-/mascotas/obj/Debug/net9.0/ref/mascotas.dll
+C:/Users/nicol/OneDrive/Escritorio/github/c-sharp/mascotas/bin/Debug/net9.0/mascotas.exe
+C:/Users/nicol/OneDrive/Escritorio/github/c-sharp/mascotas/bin/Debug/net9.0/mascotas.deps.json
+C:/Users/nicol/OneDrive/Escritorio/github/c-sharp/mascotas/bin/Debug/net9.0/mascotas.runtimeconfig.json
+C:/Users/nicol/OneDrive/Escritorio/github/c-sharp/mascotas/bin/Debug/net9.0/mascotas.dll
+C:/Users/nicol/OneDrive/Escritorio/github/c-sharp/mascotas/bin/Debug/net9.0/mascotas.pdb
+C:/Users/nicol/OneDrive/Escritorio/github/c-sharp/mascotas/obj/Debug/net9.0/mascotas.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/nicol/OneDrive/Escritorio/github/c-sharp/mascotas/obj/Debug/net9.0/mascotas.AssemblyInfoInputs.cache
+C:/Users/nicol/OneDrive/Escritorio/github/c-sharp/mascotas/obj/Debug/net9.0/mascotas.AssemblyInfo.cs
+C:/Users/nicol/OneDrive/Escritorio/github/c-sharp/mascotas/obj/Debug/net9.0/mascotas.csproj.CoreCompileInputs.cache
+C:/Users/nicol/OneDrive/Escritorio/github/c-sharp/mascotas/obj/Debug/net9.0/mascotas.sourcelink.json
+C:/Users/nicol/OneDrive/Escritorio/github/c-sharp/mascotas/obj/Debug/net9.0/mascotas.dll
+C:/Users/nicol/OneDrive/Escritorio/github/c-sharp/mascotas/obj/Debug/net9.0/refint/mascotas.dll
+C:/Users/nicol/OneDrive/Escritorio/github/c-sharp/mascotas/obj/Debug/net9.0/mascotas.pdb
+C:/Users/nicol/OneDrive/Escritorio/github/c-sharp/mascotas/obj/Debug/net9.0/mascotas.genruntimeconfig.cache
+C:/Users/nicol/OneDrive/Escritorio/github/c-sharp/mascotas/obj/Debug/net9.0/ref/mascotas.dll
+/home/coni/c-sharp/mascotas/bin/Debug/net9.0/mascotas
+/home/coni/c-sharp/mascotas/bin/Debug/net9.0/mascotas.deps.json
+/home/coni/c-sharp/mascotas/bin/Debug/net9.0/mascotas.runtimeconfig.json
+/home/coni/c-sharp/mascotas/bin/Debug/net9.0/mascotas.dll
+/home/coni/c-sharp/mascotas/bin/Debug/net9.0/mascotas.pdb
+/home/coni/c-sharp/mascotas/obj/Debug/net9.0/mascotas.GeneratedMSBuildEditorConfig.editorconfig
+/home/coni/c-sharp/mascotas/obj/Debug/net9.0/mascotas.AssemblyInfoInputs.cache
+/home/coni/c-sharp/mascotas/obj/Debug/net9.0/mascotas.AssemblyInfo.cs
+/home/coni/c-sharp/mascotas/obj/Debug/net9.0/mascotas.csproj.CoreCompileInputs.cache
+/home/coni/c-sharp/mascotas/obj/Debug/net9.0/mascotas.sourcelink.json
+/home/coni/c-sharp/mascotas/obj/Debug/net9.0/mascotas.dll
+/home/coni/c-sharp/mascotas/obj/Debug/net9.0/refint/mascotas.dll
+/home/coni/c-sharp/mascotas/obj/Debug/net9.0/mascotas.pdb
+/home/coni/c-sharp/mascotas/obj/Debug/net9.0/mascotas.genruntimeconfig.cache
+/home/coni/c-sharp/mascotas/obj/Debug/net9.0/ref/mascotas.dll
