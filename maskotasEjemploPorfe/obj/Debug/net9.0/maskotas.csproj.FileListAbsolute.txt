@@ -1,0 +1,14 @@
+C:\Users\alberto\proyectos\maskotas\bin\Debug\net9.0\maskotas.exe
+C:\Users\alberto\proyectos\maskotas\bin\Debug\net9.0\maskotas.deps.json
+C:\Users\alberto\proyectos\maskotas\bin\Debug\net9.0\maskotas.runtimeconfig.json
+C:\Users\alberto\proyectos\maskotas\bin\Debug\net9.0\maskotas.dll
+C:\Users\alberto\proyectos\maskotas\bin\Debug\net9.0\maskotas.pdb
+C:\Users\alberto\proyectos\maskotas\obj\Debug\net9.0\maskotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\proyectos\maskotas\obj\Debug\net9.0\maskotas.AssemblyInfoInputs.cache
+C:\Users\alberto\proyectos\maskotas\obj\Debug\net9.0\maskotas.AssemblyInfo.cs
+C:\Users\alberto\proyectos\maskotas\obj\Debug\net9.0\maskotas.csproj.CoreCompileInputs.cache
+C:\Users\alberto\proyectos\maskotas\obj\Debug\net9.0\maskotas.dll
+C:\Users\alberto\proyectos\maskotas\obj\Debug\net9.0\refint\maskotas.dll
+C:\Users\alberto\proyectos\maskotas\obj\Debug\net9.0\maskotas.pdb
+C:\Users\alberto\proyectos\maskotas\obj\Debug\net9.0\maskotas.genruntimeconfig.cache
+C:\Users\alberto\proyectos\maskotas\obj\Debug\net9.0\ref\maskotas.dll
