@@ -20,12 +20,12 @@ Este repositorio contiene diferentes **ejercicios prácticos y ejemplos de códi
 1. Clonar el repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/tu-repo.git
+   git clone https://github.com/nicgrefer/c-sharp
    ```
 2. Entrar en la carpeta del proyecto/ejemplo:
 
    ```bash
-   cd nombre-del-ejercicio
+   cd c-sharp
    ```
 3. Ejecutar con:
 
