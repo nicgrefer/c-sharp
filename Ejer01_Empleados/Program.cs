@@ -17,7 +17,9 @@ namespace Ejer01_Empleados
             Console.WriteLine("Lista de Empleados:");
             foreach (Empleado emp in listaEmpleados)
             {
-                Console.WriteLine($"Nombre: {emp.nombre}, Edad: {emp.edad}, Salario: {emp.salario:C}, Tipo de Contrato fijo: {emp.contratoFijo}");
+
+                string contratoFijoTexto = emp.contratoFijo ? "Sí" : "No";
+                Console.WriteLine($"Nombre: {emp.nombre}, Edad: {emp.edad}, Salario: {emp.salario:C}, Tipo de Contrato fijo: {contratoFijoTexto}");
             }
 
             Console.WriteLine("--------------------------------");
