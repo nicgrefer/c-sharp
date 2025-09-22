@@ -46,6 +46,7 @@ namespace Ejer01_Empleados
 
             Console.WriteLine($"Empleado con el salario más alto: {empleadoSalarioAlto.nombre}, Salario: {empleadoSalarioAlto.salario:C}");
             Console.WriteLine("--------------------------------");
+            Console.ReadKey();
         }
     }
 
