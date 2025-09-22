@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Ejer01_Empleados/1.0.0": {
+        "runtime": {
+          "Ejer01_Empleados.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejer01_Empleados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

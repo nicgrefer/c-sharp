@@ -1,0 +1,15 @@
+C:\Users\jovcubni\Desktop\c sharp\c-\Ejer01_Empleados\bin\Debug\net9.0\Ejer01_Empleados.exe
+C:\Users\jovcubni\Desktop\c sharp\c-\Ejer01_Empleados\bin\Debug\net9.0\Ejer01_Empleados.deps.json
+C:\Users\jovcubni\Desktop\c sharp\c-\Ejer01_Empleados\bin\Debug\net9.0\Ejer01_Empleados.runtimeconfig.json
+C:\Users\jovcubni\Desktop\c sharp\c-\Ejer01_Empleados\bin\Debug\net9.0\Ejer01_Empleados.dll
+C:\Users\jovcubni\Desktop\c sharp\c-\Ejer01_Empleados\bin\Debug\net9.0\Ejer01_Empleados.pdb
+C:\Users\jovcubni\Desktop\c sharp\c-\Ejer01_Empleados\obj\Debug\net9.0\Ejer01_Empleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jovcubni\Desktop\c sharp\c-\Ejer01_Empleados\obj\Debug\net9.0\Ejer01_Empleados.AssemblyInfoInputs.cache
+C:\Users\jovcubni\Desktop\c sharp\c-\Ejer01_Empleados\obj\Debug\net9.0\Ejer01_Empleados.AssemblyInfo.cs
+C:\Users\jovcubni\Desktop\c sharp\c-\Ejer01_Empleados\obj\Debug\net9.0\Ejer01_Empleados.csproj.CoreCompileInputs.cache
+C:\Users\jovcubni\Desktop\c sharp\c-\Ejer01_Empleados\obj\Debug\net9.0\Ejer01_Empleados.sourcelink.json
+C:\Users\jovcubni\Desktop\c sharp\c-\Ejer01_Empleados\obj\Debug\net9.0\Ejer01_Empleados.dll
+C:\Users\jovcubni\Desktop\c sharp\c-\Ejer01_Empleados\obj\Debug\net9.0\refint\Ejer01_Empleados.dll
+C:\Users\jovcubni\Desktop\c sharp\c-\Ejer01_Empleados\obj\Debug\net9.0\Ejer01_Empleados.pdb
+C:\Users\jovcubni\Desktop\c sharp\c-\Ejer01_Empleados\obj\Debug\net9.0\Ejer01_Empleados.genruntimeconfig.cache
+C:\Users\jovcubni\Desktop\c sharp\c-\Ejer01_Empleados\obj\Debug\net9.0\ref\Ejer01_Empleados.dll
