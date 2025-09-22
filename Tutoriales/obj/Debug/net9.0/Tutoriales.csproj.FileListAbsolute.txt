@@ -1,0 +1,15 @@
+C:\Users\jovcubni\Desktop\c sharp\c-\Tutoriales\bin\Debug\net9.0\Tutoriales.exe
+C:\Users\jovcubni\Desktop\c sharp\c-\Tutoriales\bin\Debug\net9.0\Tutoriales.deps.json
+C:\Users\jovcubni\Desktop\c sharp\c-\Tutoriales\bin\Debug\net9.0\Tutoriales.runtimeconfig.json
+C:\Users\jovcubni\Desktop\c sharp\c-\Tutoriales\bin\Debug\net9.0\Tutoriales.dll
+C:\Users\jovcubni\Desktop\c sharp\c-\Tutoriales\bin\Debug\net9.0\Tutoriales.pdb
+C:\Users\jovcubni\Desktop\c sharp\c-\Tutoriales\obj\Debug\net9.0\Tutoriales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jovcubni\Desktop\c sharp\c-\Tutoriales\obj\Debug\net9.0\Tutoriales.AssemblyInfoInputs.cache
+C:\Users\jovcubni\Desktop\c sharp\c-\Tutoriales\obj\Debug\net9.0\Tutoriales.AssemblyInfo.cs
+C:\Users\jovcubni\Desktop\c sharp\c-\Tutoriales\obj\Debug\net9.0\Tutoriales.csproj.CoreCompileInputs.cache
+C:\Users\jovcubni\Desktop\c sharp\c-\Tutoriales\obj\Debug\net9.0\Tutoriales.sourcelink.json
+C:\Users\jovcubni\Desktop\c sharp\c-\Tutoriales\obj\Debug\net9.0\Tutoriales.dll
+C:\Users\jovcubni\Desktop\c sharp\c-\Tutoriales\obj\Debug\net9.0\refint\Tutoriales.dll
+C:\Users\jovcubni\Desktop\c sharp\c-\Tutoriales\obj\Debug\net9.0\Tutoriales.pdb
+C:\Users\jovcubni\Desktop\c sharp\c-\Tutoriales\obj\Debug\net9.0\Tutoriales.genruntimeconfig.cache
+C:\Users\jovcubni\Desktop\c sharp\c-\Tutoriales\obj\Debug\net9.0\ref\Tutoriales.dll
