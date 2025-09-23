@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("maskotas")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Tutoriales")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+295ea1e4e915804e00ea490704d30957f5b238d2")]
-[assembly: System.Reflection.AssemblyProductAttribute("maskotas")]
-[assembly: System.Reflection.AssemblyTitleAttribute("maskotas")]
+[assembly: System.Reflection.AssemblyProductAttribute("Tutoriales")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Tutoriales")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
