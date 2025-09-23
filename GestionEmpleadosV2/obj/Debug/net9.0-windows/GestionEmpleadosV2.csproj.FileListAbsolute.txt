@@ -1,0 +1,39 @@
+E:\ejerciciosCS\GestionEmpleadosV2\bin\Debug\net9.0-windows\GestionEmpleadosV2.exe
+E:\ejerciciosCS\GestionEmpleadosV2\bin\Debug\net9.0-windows\GestionEmpleadosV2.deps.json
+E:\ejerciciosCS\GestionEmpleadosV2\bin\Debug\net9.0-windows\GestionEmpleadosV2.runtimeconfig.json
+E:\ejerciciosCS\GestionEmpleadosV2\bin\Debug\net9.0-windows\GestionEmpleadosV2.dll
+E:\ejerciciosCS\GestionEmpleadosV2\bin\Debug\net9.0-windows\GestionEmpleadosV2.pdb
+E:\ejerciciosCS\GestionEmpleadosV2\obj\Debug\net9.0-windows\MainWindow.baml
+E:\ejerciciosCS\GestionEmpleadosV2\obj\Debug\net9.0-windows\MainWindow.g.cs
+E:\ejerciciosCS\GestionEmpleadosV2\obj\Debug\net9.0-windows\App.g.cs
+E:\ejerciciosCS\GestionEmpleadosV2\obj\Debug\net9.0-windows\GestionEmpleadosV2_MarkupCompile.cache
+E:\ejerciciosCS\GestionEmpleadosV2\obj\Debug\net9.0-windows\GestionEmpleadosV2.g.resources
+E:\ejerciciosCS\GestionEmpleadosV2\obj\Debug\net9.0-windows\GestionEmpleadosV2.GeneratedMSBuildEditorConfig.editorconfig
+E:\ejerciciosCS\GestionEmpleadosV2\obj\Debug\net9.0-windows\GestionEmpleadosV2.AssemblyInfoInputs.cache
+E:\ejerciciosCS\GestionEmpleadosV2\obj\Debug\net9.0-windows\GestionEmpleadosV2.AssemblyInfo.cs
+E:\ejerciciosCS\GestionEmpleadosV2\obj\Debug\net9.0-windows\GestionEmpleadosV2.csproj.CoreCompileInputs.cache
+E:\ejerciciosCS\GestionEmpleadosV2\obj\Debug\net9.0-windows\GestionEmpleadosV2.dll
+E:\ejerciciosCS\GestionEmpleadosV2\obj\Debug\net9.0-windows\refint\GestionEmpleadosV2.dll
+E:\ejerciciosCS\GestionEmpleadosV2\obj\Debug\net9.0-windows\GestionEmpleadosV2.pdb
+E:\ejerciciosCS\GestionEmpleadosV2\obj\Debug\net9.0-windows\GestionEmpleadosV2.genruntimeconfig.cache
+E:\ejerciciosCS\GestionEmpleadosV2\obj\Debug\net9.0-windows\ref\GestionEmpleadosV2.dll
+C:\Users\jovcubni\Desktop\c sharp\c-\GestionEmpleadosV2\bin\Debug\net9.0-windows\GestionEmpleadosV2.exe
+C:\Users\jovcubni\Desktop\c sharp\c-\GestionEmpleadosV2\bin\Debug\net9.0-windows\GestionEmpleadosV2.deps.json
+C:\Users\jovcubni\Desktop\c sharp\c-\GestionEmpleadosV2\bin\Debug\net9.0-windows\GestionEmpleadosV2.runtimeconfig.json
+C:\Users\jovcubni\Desktop\c sharp\c-\GestionEmpleadosV2\bin\Debug\net9.0-windows\GestionEmpleadosV2.dll
+C:\Users\jovcubni\Desktop\c sharp\c-\GestionEmpleadosV2\bin\Debug\net9.0-windows\GestionEmpleadosV2.pdb
+C:\Users\jovcubni\Desktop\c sharp\c-\GestionEmpleadosV2\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\jovcubni\Desktop\c sharp\c-\GestionEmpleadosV2\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\jovcubni\Desktop\c sharp\c-\GestionEmpleadosV2\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\jovcubni\Desktop\c sharp\c-\GestionEmpleadosV2\obj\Debug\net9.0-windows\GestionEmpleadosV2_MarkupCompile.cache
+C:\Users\jovcubni\Desktop\c sharp\c-\GestionEmpleadosV2\obj\Debug\net9.0-windows\GestionEmpleadosV2.g.resources
+C:\Users\jovcubni\Desktop\c sharp\c-\GestionEmpleadosV2\obj\Debug\net9.0-windows\GestionEmpleadosV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jovcubni\Desktop\c sharp\c-\GestionEmpleadosV2\obj\Debug\net9.0-windows\GestionEmpleadosV2.AssemblyInfoInputs.cache
+C:\Users\jovcubni\Desktop\c sharp\c-\GestionEmpleadosV2\obj\Debug\net9.0-windows\GestionEmpleadosV2.AssemblyInfo.cs
+C:\Users\jovcubni\Desktop\c sharp\c-\GestionEmpleadosV2\obj\Debug\net9.0-windows\GestionEmpleadosV2.csproj.CoreCompileInputs.cache
+C:\Users\jovcubni\Desktop\c sharp\c-\GestionEmpleadosV2\obj\Debug\net9.0-windows\GestionEmpleadosV2.sourcelink.json
+C:\Users\jovcubni\Desktop\c sharp\c-\GestionEmpleadosV2\obj\Debug\net9.0-windows\GestionEmpleadosV2.dll
+C:\Users\jovcubni\Desktop\c sharp\c-\GestionEmpleadosV2\obj\Debug\net9.0-windows\refint\GestionEmpleadosV2.dll
+C:\Users\jovcubni\Desktop\c sharp\c-\GestionEmpleadosV2\obj\Debug\net9.0-windows\GestionEmpleadosV2.pdb
+C:\Users\jovcubni\Desktop\c sharp\c-\GestionEmpleadosV2\obj\Debug\net9.0-windows\GestionEmpleadosV2.genruntimeconfig.cache
+C:\Users\jovcubni\Desktop\c sharp\c-\GestionEmpleadosV2\obj\Debug\net9.0-windows\ref\GestionEmpleadosV2.dll
