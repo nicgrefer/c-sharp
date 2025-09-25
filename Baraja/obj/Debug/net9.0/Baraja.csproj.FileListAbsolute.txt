@@ -1,0 +1,15 @@
+C:\Users\jovcubni\Desktop\c sharp\c-\Baraja\obj\Debug\net9.0\Baraja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jovcubni\Desktop\c sharp\c-\Baraja\obj\Debug\net9.0\Baraja.AssemblyInfoInputs.cache
+C:\Users\jovcubni\Desktop\c sharp\c-\Baraja\obj\Debug\net9.0\Baraja.AssemblyInfo.cs
+C:\Users\jovcubni\Desktop\c sharp\c-\Baraja\obj\Debug\net9.0\Baraja.csproj.CoreCompileInputs.cache
+C:\Users\jovcubni\Desktop\c sharp\c-\Baraja\obj\Debug\net9.0\Baraja.sourcelink.json
+C:\Users\jovcubni\Desktop\c sharp\c-\Baraja\bin\Debug\net9.0\Baraja.exe
+C:\Users\jovcubni\Desktop\c sharp\c-\Baraja\bin\Debug\net9.0\Baraja.deps.json
+C:\Users\jovcubni\Desktop\c sharp\c-\Baraja\bin\Debug\net9.0\Baraja.runtimeconfig.json
+C:\Users\jovcubni\Desktop\c sharp\c-\Baraja\bin\Debug\net9.0\Baraja.dll
+C:\Users\jovcubni\Desktop\c sharp\c-\Baraja\bin\Debug\net9.0\Baraja.pdb
+C:\Users\jovcubni\Desktop\c sharp\c-\Baraja\obj\Debug\net9.0\Baraja.dll
+C:\Users\jovcubni\Desktop\c sharp\c-\Baraja\obj\Debug\net9.0\refint\Baraja.dll
+C:\Users\jovcubni\Desktop\c sharp\c-\Baraja\obj\Debug\net9.0\Baraja.pdb
+C:\Users\jovcubni\Desktop\c sharp\c-\Baraja\obj\Debug\net9.0\Baraja.genruntimeconfig.cache
+C:\Users\jovcubni\Desktop\c sharp\c-\Baraja\obj\Debug\net9.0\ref\Baraja.dll
