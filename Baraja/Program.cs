@@ -8,7 +8,7 @@ class Program
     {
         Baraja baraja = new Baraja();
 
-        baraja.CargarCartas();
+        baraja.CargarCartas(); //Cargamos las cartas desde la clase Baraja
 
         Console.WriteLine("--- Baraja Española Ordenada ---");
         foreach (var carta in baraja.Cartas)
@@ -20,11 +20,11 @@ class Program
 
         Console.WriteLine("--- Baraja Española Desordenada ---");
 
-        Random random = new Random();
+        Random random = new Random(); // Instancia de Random para mezclar las cartas
         for (int i = 0; i < baraja.Cartas.Length; i++)
         {
             int j = random.Next(i, baraja.Cartas.Length);
-            (baraja.Cartas[i], baraja.Cartas[j]) = (baraja.Cartas[j], baraja.Cartas[i]);
+            (baraja.Cartas[i], baraja.Cartas[j]) = (baraja.Cartas[j], baraja.Cartas[i]); // Intercambio de cartas
         }
 
         foreach (var carta in baraja.Cartas)
@@ -39,6 +39,7 @@ class Program
         int numJugadores = 4;
         int cartasPorJugador = 4;
 
+        // Repartir cartas a los jugadores de 4 en 4
         for (int jugador = 1; jugador <= numJugadores; jugador++)
         {
             Console.WriteLine($"Jugador {jugador}:");
@@ -48,7 +49,5 @@ class Program
                 Console.WriteLine($"  {baraja.Cartas[indiceCarta]}");
             }
         }
-
-
     }
 }

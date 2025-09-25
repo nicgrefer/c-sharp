@@ -16,6 +16,7 @@ class Carta
         return $"{Valor} de {Palo}";
     }
 
+// Funcione para cargar las cartas de la baraja española
     public static Carta[] CargarDatos()
     {
         List<Carta> cartas = new List<Carta>();
