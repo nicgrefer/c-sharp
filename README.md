@@ -39,6 +39,9 @@ Este repositorio contiene diferentes **ejercicios prácticos y ejemplos de códi
    dotnet run
    ```
 
+> [!NOTE]
+> Dentro de este repositorio hay mas de 1 proyecto por lo que entra en el poryecto que cieras con `cd` y luego ya ejecutar con `dotnet run`
+
 ## 🤝 Contribuciones
 
 Si deseas aportar nuevos ejemplos o mejorar los existentes, ¡las contribuciones son bienvenidas!
