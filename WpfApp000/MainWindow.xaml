@@ -7,6 +7,7 @@
         mc:Ignorable="d"
         Language="es-ES"
         Title="MainWindow" Height="450" Width="800">
+
     <Grid x:Name="GridMain" Cursor="Pen">
         <Grid.RowDefinitions>
             <RowDefinition Height="*"/>
@@ -17,16 +18,76 @@
             <ColumnDefinition Width="233*"/>
             <ColumnDefinition Width="100"/>
         </Grid.ColumnDefinitions>
-        <ComboBox x:Name="cbProvincias" Grid.Column="1" Grid.Row="0" Cursor="Pen"/>
-        <TextBlock x:Name="TexBlok1" Text="Mi texto ❤️❤️" Cursor="Pen" Background="#FF88FF00" />
+
+        <!-- ComboBox -->
+        <ComboBox x:Name="cbProvincias" Grid.Column="1" Grid.Row="0" Cursor="Pen">
+            <ComboBoxItem>Madrid</ComboBoxItem>
+            <ComboBoxItem>Barcelona</ComboBoxItem>
+            <ComboBoxItem>Sevilla</ComboBoxItem>
+        </ComboBox>
+
+        <!-- TextBlock -->
+        <TextBlock x:Name="TexBlok1" Text="Mi texto ❤️❤️"
+                   Cursor="Pen"
+                   Background="#FF88FF00"
+                   Grid.Column="0" Grid.Row="0"
+                   VerticalAlignment="Center"
+                   HorizontalAlignment="Center"
+                   FontSize="20"/>
+
+        <!-- Botón salir -->
         <Button x:Name="botSalir"
                 Grid.Column="2" Grid.Row="1"
                 Content="Salir"
                 HorizontalAlignment="Center" VerticalAlignment="Top"
                 Margin="0,338,0,0" Padding="6" Height="47" Width="80" 
                 Background="#FF00F9FF"
-                Click="botSalir_Click" />
+                BorderBrush="Black"
+                Click="botSalir_Click" >
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Border Background="{TemplateBinding Background}" 
+                            BorderBrush="{TemplateBinding BorderBrush}"
+                            BorderThickness="6"
+                            CornerRadius="15">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        <Border.Effect>
+                            <DropShadowEffect Color="Black"
+                                              Direction="320"
+                                              ShadowDepth="5"
+                                              Opacity="0.5"/>
+                        </Border.Effect>
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
 
+        <Button Content="boton dos"
+                Grid.Column="0"
+                Grid.Row="1" Click="Button_Click">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Grid>
+
+                        <Ellipse Width="100" Height="100">
+                            <Ellipse.Fill>
+                                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                    <GradientStop Color="#FFFFC2C2"/>
+                                    <GradientStop Color="#FFFF0202" Offset="1"/>
+                                </LinearGradientBrush>
+                            </Ellipse.Fill>
+                            <!--Color de fondo para la elipse-->
+                        </Ellipse>
+
+                        <ContentPresenter
+                        VerticalAlignment="Center"
+                        HorizontalAlignment="Center"/>
+
+
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
 
     </Grid>
 </Window>
