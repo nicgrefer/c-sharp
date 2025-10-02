@@ -1,0 +1,75 @@
+﻿<Window x:Class="WpfEjre001.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfEjre001"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="Grid1">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="325*"/>
+            <RowDefinition Height="109*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="327*"/>
+            <ColumnDefinition Width="473*"/>
+        </Grid.ColumnDefinitions>
+
+        <!--Fondo cuadrado-->
+        <Rectangle x:Name="FRectangulo" HorizontalAlignment="Center" 
+                   Height="242" Width="238" 
+                   Stroke="Black" 
+                   VerticalAlignment="Center" 
+                   Fill="#FF2BFF00"
+                   RadiusX="35"
+                   RadiusY="35"/>
+
+        <!-- Botón rojo interior con brillo -->
+        <!-- Botón rojo interior con brillo -->
+        <Button x:Name="buton" Width="136" Height="136" 
+        HorizontalAlignment="Center" 
+        VerticalAlignment="Center"
+        BorderThickness="0"
+        Cursor="Hand" Background="{x:Null}">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Ellipse Width="136" Height="136">
+                        <Ellipse.Fill>
+                            <RadialGradientBrush GradientOrigin="0.3,0.3" Center="0.5,0.5" RadiusX="0.8" RadiusY="0.8">
+                                <RadialGradientBrush.RelativeTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform CenterY="0.5" CenterX="0.5"/>
+                                        <SkewTransform CenterX="0.5" CenterY="0.5"/>
+                                        <RotateTransform Angle="87.138" CenterX="0.5" CenterY="0.5"/>
+                                        <TranslateTransform/>
+                                    </TransformGroup>
+                                </RadialGradientBrush.RelativeTransform>
+                                <GradientStop Color="White" Offset="0"/>
+                                <!-- Brillo central -->
+                                <GradientStop Color="Red" Offset="0.514"/>
+                                <!-- Rojo brillante -->
+                            </RadialGradientBrush>
+                        </Ellipse.Fill>
+                        <Ellipse.Effect>
+                            <DropShadowEffect Color="Black" BlurRadius="15" ShadowDepth="5" Direction="270" Opacity="0.6"/>
+                        </Ellipse.Effect>
+                    </Ellipse>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+
+        <!--barra deslizadora-->
+
+        <!--Cuadraditos horizontal-->
+        <StackPanel x:Name="Cuadraditos" Grid.Column="1" 
+                    Background="#FFE0914F" 
+                    Margin="5,5,5,5" />
+
+        <!--Circulitos estakeados-->
+        <WrapPanel x:Name="Circulitos" Grid.Row="1"
+                   Grid.ColumnSpan="2"
+                   Background="#FF83DFF7" 
+                   Margin="5,5,5,5"/>
+    </Grid>
+</Window>
