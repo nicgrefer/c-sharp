@@ -8,6 +8,9 @@
 
 Este repositorio contiene diferentes **ejercicios prácticos y ejemplos de código en C#**, pensados para reforzar conceptos de programación y servir como material de referencia.
 
+> [!NOTE]
+>  Si el proyecto no se puede ver en modo *diseño* ay que: Archivo > Abrir > Archivo > ****.sln
+
 ## 🚀 Contenido
 
 * Ejemplos básicos de sintaxis en C#
