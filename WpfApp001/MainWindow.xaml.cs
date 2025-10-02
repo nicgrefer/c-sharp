@@ -24,6 +24,11 @@ namespace WpfApp001
         private void Button_click(object sender, RoutedEventArgs e)
         {
             inkCanvas1.Strokes.Clear();
+            Wp1.Children.Add(new Button{ // Aquí se añade un botón al WrapPanel
+                Content = "Botoncillo",
+                Height = 80, Padding = new Thickness (20,5,20,5),  
+                //Background = new SolidColorBrush (Color.FromRgb (224, 96, 96)),
+                Background = Brushes.Crimson}); 
         }
 
     }

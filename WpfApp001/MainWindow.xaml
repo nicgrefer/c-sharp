@@ -29,7 +29,44 @@
         <!-- Button in top-right cell -->
         <Button Content="Borrar"
                 Grid.Row="0"
-                Grid.Column="1"
+                Grid.Column="0"
+                Width="100"
+                Height="30"
+                VerticalAlignment="Top"
+                HorizontalAlignment="Left"
                 Click="Button_click"/>
+
+        <!-- ScrollViewer with StackPanel -->
+        <ScrollViewer Grid.Row="0" 
+              Grid.Column="1"
+              HorizontalScrollBarVisibility="Auto"
+              VerticalScrollBarVisibility="Disabled">
+            <StackPanel Background="Aqua" Orientation="Horizontal">
+                <Button Content="Button 1" Height="50" Width="100" />
+                <Button Content="Button 2" Height="50" Width="100" />
+                <Button Content="Button 3" Height="50" Width="100" />
+                <Button Content="Button 4" Height="50" Width="100" />
+                <Button Content="Button 5" Height="50" Width="100" />
+                <Button Content="Button 6" Height="50" Width="100" />
+            </StackPanel>
+        </ScrollViewer>
+        <!--WrapPanel-->
+        <WrapPanel x:Name="Wp1" 
+                   Grid.Row="1" 
+                   Grid.ColumnSpan="2"> <!--De esta forma se espande dos para ocupar toda la zona de abajo-->
+            <Button Content="Button 1" Height="50" Width="100" />
+            <Button Content="Button 1" Height="50" Width="100" />
+            <Button Content="Button 1" Height="50" Width="100" />
+            <Button Content="Button 1" Height="50" Width="100" />
+            <Button Content="Button 1" Height="50" Width="100" />
+            <Button Content="Button 1" Height="50" Width="100" />
+            <Button Content="Button 1" Height="50" Width="100" />
+            <Button Content="Button 1" Height="50" Width="100" />
+            <Button Content="Button 1" Height="50" Width="100" />
+            <Button Content="Button 1" Height="50" Width="100" />
+        </WrapPanel>
+
+        
+        
     </Grid>
 </Window>
