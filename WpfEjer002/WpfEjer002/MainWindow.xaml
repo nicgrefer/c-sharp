@@ -1,0 +1,93 @@
+﻿<Window x:Class="WpfEjer002.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfEjer002"
+		xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+	<Window.Resources>
+		<Style x:Key="modo2" TargetType="Button">
+			<Setter Property="Background" Value="Green"/>
+			<Setter Property="Width" Value="70"/>
+			<Setter Property="Height" Value="70"/>
+			<Setter Property="HorizontalAlignment" Value="Center"/>
+			<Setter Property="VerticalAlignment" Value="Center"/>
+			<Setter Property="Foreground" Value="White"/>
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="Button">
+						<Border CornerRadius="35" Background="{TemplateBinding Background}">
+							<ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+						</Border>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+
+		</Style>
+	</Window.Resources>
+	<Grid>
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition Width="1*"/>
+			<ColumnDefinition Width="1*"/>
+			<ColumnDefinition Width="1*"/>
+		</Grid.ColumnDefinitions>
+		
+		<!-- Primera Opcion -->
+		<Grid x:Name="opcion1">
+			<Ellipse Width="100" Height="100"
+             Stroke="Black"
+             Fill="Green"
+             HorizontalAlignment="Center"
+             VerticalAlignment="Center"/>
+			<Ellipse Width="80" Height="80"
+			 Fill="White"
+			 HorizontalAlignment="Center"
+			 VerticalAlignment="Center"/>
+			<Button Content="Boton1"
+            Background="Green"
+            BorderThickness="0"
+            Width="70" Height="70"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center" Click="Button_Click_1" BorderBrush="Black" Foreground="White">
+				<Button.Template>
+					<ControlTemplate TargetType="Button">
+						<Border Background="{TemplateBinding Background}" CornerRadius="35">
+							<ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+						</Border>
+					</ControlTemplate>
+				</Button.Template>
+			</Button>
+		</Grid>
+		
+		<!--- Segunda Opcion -->
+		<Grid x:Name="opcion2" Grid.Column="1">
+			<Ellipse Width="100" Height="100"
+			 Stroke="Black"
+			 Fill="Green"
+			 HorizontalAlignment="Center"
+			 VerticalAlignment="Center"/>
+			<Ellipse Width="80" Height="80"
+			 Fill="White"
+			 HorizontalAlignment="Center"
+			 VerticalAlignment="Center"/>
+			<Button Content="Boton2" Style="{StaticResource modo2}" />
+
+		</Grid>
+
+		<!--Tercera Opcion -->
+		<Grid x:Name="opcion3" Grid.Column="2">
+			<Ellipse Width="100" Height="100"
+				 Stroke="Black"
+				 Fill="Green"
+				 HorizontalAlignment="Center"
+				 VerticalAlignment="Center"/>
+			<Ellipse Width="80" Height="80"
+				 Fill="White"
+				 HorizontalAlignment="Center"
+				 VerticalAlignment="Center"/>
+			<Button Content="Boton3"  />
+		</Grid>
+	</Grid>
+</Window>
