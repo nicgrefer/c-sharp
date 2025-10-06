@@ -6,7 +6,6 @@ C:\Users\jovcubni\Desktop\c sharp\c-\WpfEjre001\bin\Debug\net8.0-windows\WpfEjre
 C:\Users\jovcubni\Desktop\c sharp\c-\WpfEjre001\obj\Debug\net8.0-windows\MainWindow.g.cs
 C:\Users\jovcubni\Desktop\c sharp\c-\WpfEjre001\obj\Debug\net8.0-windows\App.g.cs
 C:\Users\jovcubni\Desktop\c sharp\c-\WpfEjre001\obj\Debug\net8.0-windows\WpfEjre001_MarkupCompile.cache
-C:\Users\jovcubni\Desktop\c sharp\c-\WpfEjre001\obj\Debug\net8.0-windows\WpfEjre001_MarkupCompile.lref
 C:\Users\jovcubni\Desktop\c sharp\c-\WpfEjre001\obj\Debug\net8.0-windows\MainWindow.baml
 C:\Users\jovcubni\Desktop\c sharp\c-\WpfEjre001\obj\Debug\net8.0-windows\WpfEjre001.g.resources
 C:\Users\jovcubni\Desktop\c sharp\c-\WpfEjre001\obj\Debug\net8.0-windows\WpfEjre001.GeneratedMSBuildEditorConfig.editorconfig
