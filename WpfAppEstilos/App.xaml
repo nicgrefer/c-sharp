@@ -1,0 +1,49 @@
+﻿<Application x:Class="WpfAppEstilos.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WpfAppEstilos"
+             StartupUri="MainWindow.xaml"
+             xmlns:sys="clr-namespace:System;assembly=mscorlib">
+    <Application.Resources>
+        <!--Declarar recursos para luego usarlo de manera mas simple y automatica-->
+        <sys:Double x:Key="letraGrande">25</sys:Double>
+        <sys:String x:Key="strTitulo">Titulo</sys:String>
+
+        <!-- Estilo base para todos los botones -->
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="LightGreen"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="Padding" Value="7"/>
+            <Setter Property="Margin" Value="3"/>
+            <Setter Property="Effect">
+                <Setter.Value>
+                    <DropShadowEffect BlurRadius="10"/>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <!-- Estilo personalizado con Template -->
+        <Style x:Key="botonX" TargetType="Button">
+            <Setter Property="Background" Value="Coral"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="Padding" Value="7"/>
+            <Setter Property="Margin" Value="3"/>
+            
+            <Setter Property="FontSize" Value="{StaticResource letraGrande}"/>
+                <Setter Property="Template">
+                    <Setter.Value>
+                        <ControlTemplate TargetType="Button">
+                            <Border Background="{TemplateBinding Background}"
+                                CornerRadius="5"
+                                Padding="{TemplateBinding Padding}">
+                                <ContentPresenter HorizontalAlignment="Center"
+                                            VerticalAlignment="Center"/>
+                            </Border>
+                        </ControlTemplate>
+                    </Setter.Value>
+                </Setter>
+        </Style>
+
+    </Application.Resources>
+</Application>
