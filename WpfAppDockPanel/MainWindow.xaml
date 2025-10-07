@@ -1,0 +1,80 @@
+﻿<!-- Definición de la ventana principal de la aplicación WPF -->
+<Window x:Class="WpfAppDockPanel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppDockPanel"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" WindowStartupLocation="CenterScreen" PreviewKeyDown="Window_PreviewKeyDown">
+
+    <!-- DockPanel: Panel que permite anclar elementos a los bordes (Top, Bottom, Left, Right) -->
+    <DockPanel>
+
+        <!-- Menú anclado en la parte superior de la ventana -->
+        <Menu DockPanel.Dock="Top">
+
+            <!-- Menú "Edit" con comandos estándar de edición -->
+            <MenuItem Header="_Edit">
+                <!-- El guion bajo (_) antes de 'E' crea un atajo de teclado Alt+E -->
+
+                <!-- Comando Copiar (Ctrl+C) -->
+                <MenuItem Command="ApplicationCommands.Copy"/>
+
+                <!-- Comando Cortar (Ctrl+X) -->
+                <MenuItem Command="ApplicationCommands.Cut"/>
+
+                <!-- Comando Pegar (Ctrl+V) -->
+                <MenuItem Command="ApplicationCommands.Paste"/>
+            </MenuItem>
+
+            <!-- Menú "Font" para opciones de formato de texto -->
+            <MenuItem Header="_Font">
+
+                <!-- Opción de Negrita con checkbox (se puede marcar/desmarcar) -->
+                <MenuItem Header="_Bold" IsCheckable="True"
+                          Checked="Bold_Checked"
+                          Unchecked="Bold_Unchecked"/>
+
+                <!-- Opción de Cursiva con checkbox -->
+                <MenuItem Header="_Italic" IsCheckable="True"
+                          Checked="Italic_Checked"
+                          Unchecked="Italic_Unchecked"/>
+
+                <!-- Separador visual entre opciones del menú -->
+                <Separator/>
+
+                <!-- Opción para aumentar el tamaño de la fuente -->
+                <MenuItem Header="I_ncrease Font Size"
+                          Click="IncreaseFont_Click"/>
+
+                <!-- Opción para disminuir el tamaño de la fuente -->
+                <MenuItem Header="_Decrease Font Size"
+                          Click="DecreaseFont_Click"/>
+            </MenuItem>
+
+            <!-- Opción para salir de la aplicación -->
+            <MenuItem Header="_Salir" Click="MenuItem_Click"/>
+        </Menu>
+
+        <!-- Botón anclado en el lado derecho -->
+        <Button Content="boton 2" DockPanel.Dock="Right"/>
+
+        <!-- Botón anclado en la parte inferior -->
+        <Button Content="boton 3" DockPanel.Dock="Bottom"/>
+
+        <!-- Botón anclado en el lado izquierdo -->
+        <Button Content="boton 4" DockPanel.Dock="Left"/>
+
+        <!-- Border con fondo naranja-rojo que contiene el TextBox -->
+        <!-- Este elemento ocupa todo el espacio restante (centro) porque no tiene DockPanel.Dock definido -->
+        <Border Background="OrangeRed">
+
+            <!-- TextBox principal con ajuste de línea automático -->
+            <TextBox Name="textBox1" TextWrapping="Wrap" Margin="2">
+                The quick brown fox jumps over the lazy dog.
+            </TextBox>
+
+        </Border>
+    </DockPanel>
+</Window>
