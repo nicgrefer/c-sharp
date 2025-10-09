@@ -1,0 +1,81 @@
+G:\sources\WpfAppDockPanel\bin\Debug\net8.0-windows\WpfAppDockPanel.exe
+G:\sources\WpfAppDockPanel\bin\Debug\net8.0-windows\WpfAppDockPanel.deps.json
+G:\sources\WpfAppDockPanel\bin\Debug\net8.0-windows\WpfAppDockPanel.runtimeconfig.json
+G:\sources\WpfAppDockPanel\bin\Debug\net8.0-windows\WpfAppDockPanel.dll
+G:\sources\WpfAppDockPanel\bin\Debug\net8.0-windows\WpfAppDockPanel.pdb
+G:\sources\WpfAppDockPanel\obj\Debug\net8.0-windows\MainWindow.g.cs
+G:\sources\WpfAppDockPanel\obj\Debug\net8.0-windows\App.g.cs
+G:\sources\WpfAppDockPanel\obj\Debug\net8.0-windows\WpfAppDockPanel_MarkupCompile.cache
+G:\sources\WpfAppDockPanel\obj\Debug\net8.0-windows\WpfAppDockPanel_MarkupCompile.lref
+G:\sources\WpfAppDockPanel\obj\Debug\net8.0-windows\MainWindow.baml
+G:\sources\WpfAppDockPanel\obj\Debug\net8.0-windows\WpfAppDockPanel.g.resources
+G:\sources\WpfAppDockPanel\obj\Debug\net8.0-windows\WpfAppDockPanel.GeneratedMSBuildEditorConfig.editorconfig
+G:\sources\WpfAppDockPanel\obj\Debug\net8.0-windows\WpfAppDockPanel.AssemblyInfoInputs.cache
+G:\sources\WpfAppDockPanel\obj\Debug\net8.0-windows\WpfAppDockPanel.AssemblyInfo.cs
+G:\sources\WpfAppDockPanel\obj\Debug\net8.0-windows\WpfAppDockPanel.csproj.CoreCompileInputs.cache
+G:\sources\WpfAppDockPanel\obj\Debug\net8.0-windows\WpfAppDockPanel.dll
+G:\sources\WpfAppDockPanel\obj\Debug\net8.0-windows\refint\WpfAppDockPanel.dll
+G:\sources\WpfAppDockPanel\obj\Debug\net8.0-windows\WpfAppDockPanel.pdb
+G:\sources\WpfAppDockPanel\obj\Debug\net8.0-windows\WpfAppDockPanel.genruntimeconfig.cache
+G:\sources\WpfAppDockPanel\obj\Debug\net8.0-windows\ref\WpfAppDockPanel.dll
+G:\sources\WpfAppDockPanel\obj\Debug\net8.0-windows\Page1.g.cs
+G:\sources\WpfAppDockPanel\obj\Debug\net8.0-windows\UserControl1.g.cs
+G:\sources\WpfAppDockPanel\obj\Debug\net8.0-windows\Window1.g.cs
+G:\sources\WpfAppDockPanel\obj\Debug\net8.0-windows\Page1.baml
+G:\sources\WpfAppDockPanel\obj\Debug\net8.0-windows\UserControl1.baml
+G:\sources\WpfAppDockPanel\obj\Debug\net8.0-windows\Window1.baml
+C:\Users\alberto\Documents\ejercicios\WpfAppDockPanel\WpfAppDockPanel\bin\Debug\net8.0-windows\WpfAppDockPanel.exe
+C:\Users\alberto\Documents\ejercicios\WpfAppDockPanel\WpfAppDockPanel\bin\Debug\net8.0-windows\WpfAppDockPanel.deps.json
+C:\Users\alberto\Documents\ejercicios\WpfAppDockPanel\WpfAppDockPanel\bin\Debug\net8.0-windows\WpfAppDockPanel.runtimeconfig.json
+C:\Users\alberto\Documents\ejercicios\WpfAppDockPanel\WpfAppDockPanel\bin\Debug\net8.0-windows\WpfAppDockPanel.dll
+C:\Users\alberto\Documents\ejercicios\WpfAppDockPanel\WpfAppDockPanel\bin\Debug\net8.0-windows\WpfAppDockPanel.pdb
+C:\Users\alberto\Documents\ejercicios\WpfAppDockPanel\WpfAppDockPanel\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\alberto\Documents\ejercicios\WpfAppDockPanel\WpfAppDockPanel\obj\Debug\net8.0-windows\Page1.g.cs
+C:\Users\alberto\Documents\ejercicios\WpfAppDockPanel\WpfAppDockPanel\obj\Debug\net8.0-windows\UserControl1.g.cs
+C:\Users\alberto\Documents\ejercicios\WpfAppDockPanel\WpfAppDockPanel\obj\Debug\net8.0-windows\Window1.g.cs
+C:\Users\alberto\Documents\ejercicios\WpfAppDockPanel\WpfAppDockPanel\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\alberto\Documents\ejercicios\WpfAppDockPanel\WpfAppDockPanel\obj\Debug\net8.0-windows\WpfAppDockPanel_MarkupCompile.cache
+C:\Users\alberto\Documents\ejercicios\WpfAppDockPanel\WpfAppDockPanel\obj\Debug\net8.0-windows\WpfAppDockPanel_MarkupCompile.lref
+C:\Users\alberto\Documents\ejercicios\WpfAppDockPanel\WpfAppDockPanel\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\alberto\Documents\ejercicios\WpfAppDockPanel\WpfAppDockPanel\obj\Debug\net8.0-windows\Page1.baml
+C:\Users\alberto\Documents\ejercicios\WpfAppDockPanel\WpfAppDockPanel\obj\Debug\net8.0-windows\UserControl1.baml
+C:\Users\alberto\Documents\ejercicios\WpfAppDockPanel\WpfAppDockPanel\obj\Debug\net8.0-windows\Window1.baml
+C:\Users\alberto\Documents\ejercicios\WpfAppDockPanel\WpfAppDockPanel\obj\Debug\net8.0-windows\WpfAppDockPanel.g.resources
+C:\Users\alberto\Documents\ejercicios\WpfAppDockPanel\WpfAppDockPanel\obj\Debug\net8.0-windows\WpfAppDockPanel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Documents\ejercicios\WpfAppDockPanel\WpfAppDockPanel\obj\Debug\net8.0-windows\WpfAppDockPanel.AssemblyInfoInputs.cache
+C:\Users\alberto\Documents\ejercicios\WpfAppDockPanel\WpfAppDockPanel\obj\Debug\net8.0-windows\WpfAppDockPanel.AssemblyInfo.cs
+C:\Users\alberto\Documents\ejercicios\WpfAppDockPanel\WpfAppDockPanel\obj\Debug\net8.0-windows\WpfAppDockPanel.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Documents\ejercicios\WpfAppDockPanel\WpfAppDockPanel\obj\Debug\net8.0-windows\WpfAppDockPanel.dll
+C:\Users\alberto\Documents\ejercicios\WpfAppDockPanel\WpfAppDockPanel\obj\Debug\net8.0-windows\refint\WpfAppDockPanel.dll
+C:\Users\alberto\Documents\ejercicios\WpfAppDockPanel\WpfAppDockPanel\obj\Debug\net8.0-windows\WpfAppDockPanel.pdb
+C:\Users\alberto\Documents\ejercicios\WpfAppDockPanel\WpfAppDockPanel\obj\Debug\net8.0-windows\WpfAppDockPanel.genruntimeconfig.cache
+C:\Users\alberto\Documents\ejercicios\WpfAppDockPanel\WpfAppDockPanel\obj\Debug\net8.0-windows\ref\WpfAppDockPanel.dll
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppDockPanel2\bin\Debug\net8.0-windows\WpfAppDockPanel.exe
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppDockPanel2\bin\Debug\net8.0-windows\WpfAppDockPanel.deps.json
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppDockPanel2\bin\Debug\net8.0-windows\WpfAppDockPanel.runtimeconfig.json
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppDockPanel2\bin\Debug\net8.0-windows\WpfAppDockPanel.dll
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppDockPanel2\bin\Debug\net8.0-windows\WpfAppDockPanel.pdb
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppDockPanel2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppDockPanel2\obj\Debug\net8.0-windows\Page1.g.cs
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppDockPanel2\obj\Debug\net8.0-windows\UserControl1.g.cs
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppDockPanel2\obj\Debug\net8.0-windows\Window1.g.cs
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppDockPanel2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppDockPanel2\obj\Debug\net8.0-windows\WpfAppDockPanel_MarkupCompile.cache
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppDockPanel2\obj\Debug\net8.0-windows\WpfAppDockPanel_MarkupCompile.lref
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppDockPanel2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppDockPanel2\obj\Debug\net8.0-windows\Page1.baml
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppDockPanel2\obj\Debug\net8.0-windows\UserControl1.baml
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppDockPanel2\obj\Debug\net8.0-windows\Window1.baml
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppDockPanel2\obj\Debug\net8.0-windows\WpfAppDockPanel.g.resources
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppDockPanel2\obj\Debug\net8.0-windows\WpfAppDockPanel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppDockPanel2\obj\Debug\net8.0-windows\WpfAppDockPanel.AssemblyInfoInputs.cache
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppDockPanel2\obj\Debug\net8.0-windows\WpfAppDockPanel.AssemblyInfo.cs
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppDockPanel2\obj\Debug\net8.0-windows\WpfAppDockPanel.csproj.CoreCompileInputs.cache
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppDockPanel2\obj\Debug\net8.0-windows\WpfAppDockPanel.sourcelink.json
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppDockPanel2\obj\Debug\net8.0-windows\WpfAppDockPanel.dll
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppDockPanel2\obj\Debug\net8.0-windows\refint\WpfAppDockPanel.dll
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppDockPanel2\obj\Debug\net8.0-windows\WpfAppDockPanel.pdb
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppDockPanel2\obj\Debug\net8.0-windows\WpfAppDockPanel.genruntimeconfig.cache
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppDockPanel2\obj\Debug\net8.0-windows\ref\WpfAppDockPanel.dll
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppDockPanel2\obj\Debug\net8.0-windows\UserControl2.g.cs
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppDockPanel2\obj\Debug\net8.0-windows\UserControl2.baml
