@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "bVy/UmlLlp4=",
+  "dgSpecHash": "Y1NlAT3jM04=",
   "success": true,
   "projectFilePath": "C:\\Users\\jovcubni\\Desktop\\c sharp\\c-sharp\\WpfAppDockPanel\\WpfAppDockPanel.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\jovcubni\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.20\\microsoft.windowsdesktop.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\jovcubni\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.20\\microsoft.netcore.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\jovcubni\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.20\\microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\jovcubni\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.20\\microsoft.netcore.app.host.win-x64.8.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
