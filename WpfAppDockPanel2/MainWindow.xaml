@@ -1,0 +1,71 @@
+﻿<Window x:Class="WpfAppDockPanel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppDockPanel"
+        mc:Ignorable="d" 
+        Closing="Window_Closing"
+        Title="MainWindow" Height="450" Width="800">
+    <DockPanel LastChildFill="True">
+        <Grid DockPanel.Dock="Top">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Menu Background="LightBlue" IsMainMenu="True">
+                <MenuItem Header="_File">
+                    <MenuItem Header="_New"/>
+                    <MenuItem Header="_Open"/>
+                    <Separator/>
+                    <MenuItem Header="_Exit" Click="MenuItem_Click"/>
+                </MenuItem>
+                <MenuItem Header="_Edit">
+                    <MenuItem Header="_Cut"/>
+                    <MenuItem Header="_Copy"/>
+                    <MenuItem Header="_Paste"/>
+                </MenuItem>
+
+            </Menu>
+            <Menu Grid.Column="1" Background="LightBlue">
+                <MenuItem Header="_Help"/>
+                <MenuItem Header="_About"/>
+            </Menu>
+        </Grid>
+        <StatusBar DockPanel.Dock="Bottom" Background="DeepSkyBlue">
+            <StatusBarItem Content="Ready" HorizontalAlignment="Left"/>
+            <StatusBarItem Content="Line 1, Col 1" HorizontalAlignment="Right"/>
+        </StatusBar>
+        <ToolBarTray DockPanel.Dock="Top">
+            <!--LAs imagenes, una vez agregadas deden de establecerse con Accion de complilacion - recurso-->
+            <ToolBar>
+                <Button>
+                    <Image Source="Imagenes/Usuario.png" Width="16" Height="16"/>
+                </Button>
+                <Button>
+                    <Image Source="Imagenes/tienda.png" Width="16" Height="16"/>
+                </Button>
+                <Button>
+                    <!--Se usa Stretch para modificar las propiedades del tamaño-->
+                    <Image Source="Fotitos/descarga.jpg" Width="64" Height="64" Stretch="Uniform"/>
+                </Button>
+            </ToolBar>
+        </ToolBarTray>
+        <StackPanel DockPanel.Dock="Left" Width="100" Background="LightGray">
+            <TextBlock Text="Navigation" FontWeight="Bold" Margin="5"/>
+            <!--Creamos una lista y usamos la funcion Selected para mostrar una neva ventana-->
+            <ListBox Margin="5">
+                <ListBoxItem Content="Home" Selected="ListBoxItem_Selected"/>
+                <ListBoxItem Content="Profile" Selected="ListBoxItem_Selected_1"/>
+                <ListBoxItem Content="Settings" Selected="ListBoxItem_Selected_2"/>
+            </ListBox>
+        </StackPanel>
+
+        <Grid Background="White">
+            <!--<TextBlock Text="Área de Contenidos" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="24"/>-->
+            <ContentControl x:Name="MainContentArea"/>
+            <!--Frame para contener Pages-->
+            <Frame x:Name="MainFrame" NavigationUIVisibility="Hidden"/>
+        </Grid>
+    </DockPanel>
+</Window>

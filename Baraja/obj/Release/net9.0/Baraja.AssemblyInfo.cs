@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Baraja")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f733f8fc9a522ff3cc442651cf89ea5d2ef07c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+421e3dcf201ed4f767b976712fc2a392f295143b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Baraja")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Baraja")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
