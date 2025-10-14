@@ -58,6 +58,7 @@
                 <ListBoxItem Content="Home" Selected="ListBoxItem_Selected"/>
                 <ListBoxItem Content="Profile" Selected="ListBoxItem_Selected_1"/>
                 <ListBoxItem Content="Settings" Selected="ListBoxItem_Selected_2"/>
+                
             </ListBox>
         </StackPanel>
 
