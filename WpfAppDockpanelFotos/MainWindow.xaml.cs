@@ -19,12 +19,13 @@ namespace WpfAppDockpanelFotos
         public MainWindow()
         {
             InitializeComponent();
-            CargarDatos();
+            //CargarDatos();
+            CargarUrl();
         }
 
         private void CargarDatos()
         {
-            /* opcion 1: cargar las imagenes desde local
+            // opcion 1: cargar las imagenes desde local
             Char[] letra = {'a','b','c','d','e','f'};
             foreach (Char c in letra)
             {
@@ -36,20 +37,24 @@ namespace WpfAppDockpanelFotos
                 var items = new ListBoxItem { Content = img };
                 lbAves.Items.Add(items);
             }
-            */
+            
+           
+
+        }
+        private void CargarUrl()
+        {
             // opcion 2: cargar las imagenes desde internet
-            for (int i = 0; i<10; i++)
+            for (int i = 0; i < 10; i++)
             {
                 Image img = new Image()
                 {
-                    Source = new BitmapImage(new Uri($"https://picsum.photos/id/{i+50}/200/200")),
+                    Source = new BitmapImage(new Uri($"https://picsum.photos/id/{i + 50}/200/200")),
                     Width = 100,
                     Height = 100,
                 };
                 var items = new ListBoxItem { Content = img };
                 lbAves.Items.Add(items);
             }
-
         }
 
 

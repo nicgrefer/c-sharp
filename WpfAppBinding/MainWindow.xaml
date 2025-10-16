@@ -1,0 +1,32 @@
+﻿<Window x:Class="WpfAppBinding.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppBinding"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="221*"/>
+            <ColumnDefinition Width="589*"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel>
+            <Grid>
+                <TextBlock x:Name="tb1" HorizontalAlignment="Left" Text="{Binding ElementName=slider1, Path=Minimum}"/>
+                <TextBlock x:Name="tb2" HorizontalAlignment="Right" Text="{Binding ElementName=slider1, Path=Maximum}"/>
+                <!--Otras funciones -> UpdateSourceTrigger para que se mustre el balor cuando... -->
+                <!--Otras funciones -> Mode -->
+                
+            </Grid>
+            <Slider x:Name="slider1"  TickFrequency="1" IsSnapToTickEnabled="True"/> <!--Tick -> REDONDEO NUMERO Is.... -> configurar apariencia-->
+            
+        </StackPanel>
+        
+        <TextBlock Grid.Column="1" Text="{Binding ElementName=slider1, Path=Value}" FontSize="{Binding ElementName=slider1, Path=Value}"
+                   HorizontalAlignment="Center" VerticalAlignment="Center"  />
+
+
+    </Grid>
+</Window>

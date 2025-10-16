@@ -38,9 +38,11 @@
         <TextBlock x:Name="textBloc1" Grid.Column="1" FontSize ="64"
                    TextWrapping="Wrap" Margin="10">
 
-            <Run Text="Seleccione una imagen del listado de la izquierda"  Foreground="AntiqueWhite"/>"
+            <Run Text="Seleccione una imagen del listado de la izquierda"  Foreground="DeepSkyBlue"/>"
             <LineBreak/>
-            <Rectangle Height="100" Width="100" Fill="Gray" />
+            <Rectangle Height="100" Fill="Gray"
+                       Width="{Binding ActualWidth, ElementName=textBloc1, Mode=OneWay}"  /> 
+                       <!--Vincular el ancho del rectángulo al ancho del TextBlock-->
             <LineBreak/>
             <Run Text="para verla en grande aquí." FontStyle="Italic"/>
 

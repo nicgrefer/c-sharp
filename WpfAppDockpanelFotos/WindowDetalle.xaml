@@ -6,7 +6,12 @@
         xmlns:local="clr-namespace:WpfAppDockpanelFotos"
         mc:Ignorable="d"
         Height="450" Width="800" ResizeMode="NoResize" WindowState="Maximized" WindowStartupLocation="CenterScreen" WindowStyle="None">
-    <Grid>
-        <Image x:Name="imgDetalle" PreviewMouseLeftButtonDown="imgDetalle_PreviewMouseLeftButtonDown"/>
-    </Grid>
+    <Border CornerRadius="50" Background="Transparent">
+        <Image x:Name="imgDetalle" Stretch="UniformToFill" Margin="160" >
+            <Image.Effect>
+                <DropShadowEffect ShadowDepth="20" BlurRadius="60"/>
+            </Image.Effect>
+        </Image>
+
+    </Border>
 </Window>
