@@ -9,21 +9,21 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="imajenes\a.jpeg" />
-    <None Remove="imajenes\b.jpeg" />
-    <None Remove="imajenes\c.jpeg" />
-    <None Remove="imajenes\d.jpeg" />
-    <None Remove="imajenes\e.jpeg" />
-    <None Remove="imajenes\f.jpeg" />
+    <None Remove="imagenes\a.jpeg" />
+    <None Remove="imagenes\b.jpeg" />
+    <None Remove="imagenes\c.jpeg" />
+    <None Remove="imagenes\d.jpeg" />
+    <None Remove="imagenes\e.jpeg" />
+    <None Remove="imagenes\f.jpeg" />
   </ItemGroup>
 
   <ItemGroup>
-    <Resource Include="imajenes\a.jpeg" />
-    <Resource Include="imajenes\b.jpeg" />
-    <Resource Include="imajenes\c.jpeg" />
-    <Resource Include="imajenes\d.jpeg" />
-    <Resource Include="imajenes\e.jpeg" />
-    <Resource Include="imajenes\f.jpeg" />
+    <Resource Include="imagenes\a.jpeg" />
+    <Resource Include="imagenes\b.jpeg" />
+    <Resource Include="imagenes\c.jpeg" />
+    <Resource Include="imagenes\d.jpeg" />
+    <Resource Include="imagenes\e.jpeg" />
+    <Resource Include="imagenes\f.jpeg" />
   </ItemGroup>
 
 </Project>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WpfAppDockPanel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6edd11f5e2947a457fcef6311ed957c2db4e0e78")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd65f6fbad94110fcf4788ff7e4eb6d7c36c0407")]
 [assembly: System.Reflection.AssemblyProductAttribute("WpfAppDockPanel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WpfAppDockPanel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
