@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Resource Include="Imagenes\a.jpeg" />
+    <Resource Include="Imagenes\b.jpeg" />
+    <Resource Include="Imagenes\c.jpeg" />
+    <Resource Include="Imagenes\d.jpeg" />
+    <Resource Include="Imagenes\e.jpeg" />
+    <Resource Include="Imagenes\f.jpeg" />
+  </ItemGroup>
+
+</Project>

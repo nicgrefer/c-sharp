@@ -1,0 +1,5 @@
+C:\Users\alberto\Documents\ejercicios\WpfAppColecFotos2\bin\Release\net8.0-windows\publish\WpfAppColecFotos.exe
+C:\Users\alberto\Documents\ejercicios\WpfAppColecFotos2\bin\Release\net8.0-windows\publish\WpfAppColecFotos.dll
+C:\Users\alberto\Documents\ejercicios\WpfAppColecFotos2\bin\Release\net8.0-windows\publish\WpfAppColecFotos.deps.json
+C:\Users\alberto\Documents\ejercicios\WpfAppColecFotos2\bin\Release\net8.0-windows\publish\WpfAppColecFotos.runtimeconfig.json
+C:\Users\alberto\Documents\ejercicios\WpfAppColecFotos2\bin\Release\net8.0-windows\publish\WpfAppColecFotos.pdb
