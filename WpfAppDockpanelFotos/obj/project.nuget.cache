@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0gxSNKeK5V8=",
+  "dgSpecHash": "ammDZXF9kyI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jovcubni\\Desktop\\c sharp\\c-sharp\\WpfAppDockpanelFotos\\WpfAppDockpanelFotos.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\jovcubni\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.21\\microsoft.windowsdesktop.app.ref.8.0.21.nupkg.sha512",
-    "C:\\Users\\jovcubni\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.21\\microsoft.netcore.app.ref.8.0.21.nupkg.sha512",
-    "C:\\Users\\jovcubni\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.21\\microsoft.aspnetcore.app.ref.8.0.21.nupkg.sha512",
-    "C:\\Users\\jovcubni\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.21\\microsoft.netcore.app.host.win-x64.8.0.21.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\nicol\\OneDrive\\Escritorio\\github\\c-sharp\\WpfAppDockpanelFotos\\WpfAppDockpanelFotos.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

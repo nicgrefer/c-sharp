@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WpfAppDockpanelFotos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9be8b9e23312bf388bd08de0054c8574fd47c570")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b80bdc30683f2675f72396f69ec7a7d1b9f3562e")]
 [assembly: System.Reflection.AssemblyProductAttribute("WpfAppDockpanelFotos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WpfAppDockpanelFotos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\WpfAppAves"
+    "\\WpfAppAves",
+    "\\WpfAppDockpanelFotos"
   ],
-  "SelectedNode": "\\WpfAppAves\\WindowDetalle.xaml",
+  "SelectedNode": "\\WpfAppAves\\MainWindow.xaml",
   "PreviewInSolutionExplorer": false
 }

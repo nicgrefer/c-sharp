@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WpfAppBinding")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebe65aae2fd5d7a99aded5829810f268c92d67f3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b80bdc30683f2675f72396f69ec7a7d1b9f3562e")]
 [assembly: System.Reflection.AssemblyProductAttribute("WpfAppBinding")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WpfAppBinding")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
