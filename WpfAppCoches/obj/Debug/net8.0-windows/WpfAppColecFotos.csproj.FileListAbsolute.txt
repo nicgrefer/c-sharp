@@ -110,3 +110,26 @@ C:\Users\nicol\OneDrive\Escritorio\github\c-sharp\WpfAppAves\obj\Debug\net8.0-wi
 C:\Users\nicol\OneDrive\Escritorio\github\c-sharp\WpfAppAves\obj\Debug\net8.0-windows\WpfAppColecFotos.pdb
 C:\Users\nicol\OneDrive\Escritorio\github\c-sharp\WpfAppAves\obj\Debug\net8.0-windows\WpfAppColecFotos.genruntimeconfig.cache
 C:\Users\nicol\OneDrive\Escritorio\github\c-sharp\WpfAppAves\obj\Debug\net8.0-windows\ref\WpfAppColecFotos.dll
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppCoches\bin\Debug\net8.0-windows\WpfAppColecFotos.exe
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppCoches\bin\Debug\net8.0-windows\WpfAppColecFotos.deps.json
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppCoches\bin\Debug\net8.0-windows\WpfAppColecFotos.runtimeconfig.json
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppCoches\bin\Debug\net8.0-windows\WpfAppColecFotos.dll
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppCoches\bin\Debug\net8.0-windows\WpfAppColecFotos.pdb
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppCoches\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppCoches\obj\Debug\net8.0-windows\WindowDetalle.g.cs
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppCoches\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppCoches\obj\Debug\net8.0-windows\WpfAppColecFotos_MarkupCompile.cache
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppCoches\obj\Debug\net8.0-windows\WpfAppColecFotos_MarkupCompile.lref
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppCoches\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppCoches\obj\Debug\net8.0-windows\WindowDetalle.baml
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppCoches\obj\Debug\net8.0-windows\WpfAppColecFotos.g.resources
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppCoches\obj\Debug\net8.0-windows\WpfAppColecFotos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppCoches\obj\Debug\net8.0-windows\WpfAppColecFotos.AssemblyInfoInputs.cache
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppCoches\obj\Debug\net8.0-windows\WpfAppColecFotos.AssemblyInfo.cs
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppCoches\obj\Debug\net8.0-windows\WpfAppColecFotos.csproj.CoreCompileInputs.cache
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppCoches\obj\Debug\net8.0-windows\WpfAppColecFotos.sourcelink.json
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppCoches\obj\Debug\net8.0-windows\WpfAppColecFotos.dll
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppCoches\obj\Debug\net8.0-windows\refint\WpfAppColecFotos.dll
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppCoches\obj\Debug\net8.0-windows\WpfAppColecFotos.pdb
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppCoches\obj\Debug\net8.0-windows\WpfAppColecFotos.genruntimeconfig.cache
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppCoches\obj\Debug\net8.0-windows\ref\WpfAppColecFotos.dll

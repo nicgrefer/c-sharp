@@ -1,0 +1,4 @@
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppTriggersBoton\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppTriggersBoton\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppTriggersBoton\obj\Debug\net8.0-windows\WpfAppTriggersBoton_MarkupCompile.cache
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppTriggersBoton\obj\Debug\net8.0-windows\WpfAppTriggersBoton_MarkupCompile.lref

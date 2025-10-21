@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("maskotas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b80bdc30683f2675f72396f69ec7a7d1b9f3562e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5aa20c0dfa5f4c3dcffc0d803098ef3b268c19cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("maskotas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("maskotas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

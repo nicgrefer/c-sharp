@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "CGxGpHIHWsg=",
+  "dgSpecHash": "/ADkIIgOq0g=",
   "success": true,
-  "projectFilePath": "C:\\Users\\nicol\\OneDrive\\Escritorio\\github\\c-sharp\\WpfAppAves\\WpfAppColecFotos.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\jovcubni\\Desktop\\c sharp\\c-sharp\\WpfAppCoches\\WpfAppColecFotos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jovcubni\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.21\\microsoft.windowsdesktop.app.ref.8.0.21.nupkg.sha512",
+    "C:\\Users\\jovcubni\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.21\\microsoft.netcore.app.ref.8.0.21.nupkg.sha512",
+    "C:\\Users\\jovcubni\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.21\\microsoft.aspnetcore.app.ref.8.0.21.nupkg.sha512",
+    "C:\\Users\\jovcubni\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.21\\microsoft.netcore.app.host.win-x64.8.0.21.nupkg.sha512"
+  ],
   "logs": []
 }
