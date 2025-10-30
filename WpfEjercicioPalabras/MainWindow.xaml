@@ -1,0 +1,33 @@
+﻿<Window x:Name="window" x:Class="WpfEjercicioPalabras.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfEjercicioPalabras"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="grid">
+        <StackPanel>
+
+            <!-- Cabecera con la palabra centrada -->
+            <Grid Height="100" Width="{Binding ActualWidth, ElementName=window, Mode=OneWay}">
+                <Rectangle Fill="#FF9EE486"/>
+                <StackPanel x:Name="panelPalabra"
+                        Orientation="Horizontal"
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Center"/>
+            </Grid>
+
+            <Button Content="Siguiente"
+                Margin="10" Width="93"
+                Click="CargarPalabra"/>
+
+            <ScrollViewer HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Disabled">
+                <StackPanel x:Name="lbLEtras" Orientation="Horizontal" HorizontalAlignment="Center">
+                    <!-- Aquí se añadirán las letras dinámicamente (botones) -->
+                </StackPanel>
+            </ScrollViewer>
+
+        </StackPanel>
+    </Grid>
+</Window>
