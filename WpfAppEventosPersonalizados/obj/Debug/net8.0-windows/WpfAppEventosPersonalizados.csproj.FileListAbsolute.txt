@@ -1,0 +1,23 @@
+D:\DI2025\CS\WpfAppEventosPersonalizados\WpfAppEventosPersonalizados\bin\Debug\net8.0-windows\WpfAppEventosPersonalizados.exe
+D:\DI2025\CS\WpfAppEventosPersonalizados\WpfAppEventosPersonalizados\bin\Debug\net8.0-windows\WpfAppEventosPersonalizados.deps.json
+D:\DI2025\CS\WpfAppEventosPersonalizados\WpfAppEventosPersonalizados\bin\Debug\net8.0-windows\WpfAppEventosPersonalizados.runtimeconfig.json
+D:\DI2025\CS\WpfAppEventosPersonalizados\WpfAppEventosPersonalizados\bin\Debug\net8.0-windows\WpfAppEventosPersonalizados.dll
+D:\DI2025\CS\WpfAppEventosPersonalizados\WpfAppEventosPersonalizados\bin\Debug\net8.0-windows\WpfAppEventosPersonalizados.pdb
+D:\DI2025\CS\WpfAppEventosPersonalizados\WpfAppEventosPersonalizados\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\DI2025\CS\WpfAppEventosPersonalizados\WpfAppEventosPersonalizados\obj\Debug\net8.0-windows\App.g.cs
+D:\DI2025\CS\WpfAppEventosPersonalizados\WpfAppEventosPersonalizados\obj\Debug\net8.0-windows\WpfAppEventosPersonalizados_MarkupCompile.cache
+D:\DI2025\CS\WpfAppEventosPersonalizados\WpfAppEventosPersonalizados\obj\Debug\net8.0-windows\WpfAppEventosPersonalizados_MarkupCompile.lref
+D:\DI2025\CS\WpfAppEventosPersonalizados\WpfAppEventosPersonalizados\obj\Debug\net8.0-windows\MainWindow.baml
+D:\DI2025\CS\WpfAppEventosPersonalizados\WpfAppEventosPersonalizados\obj\Debug\net8.0-windows\WpfAppEventosPersonalizados.g.resources
+D:\DI2025\CS\WpfAppEventosPersonalizados\WpfAppEventosPersonalizados\obj\Debug\net8.0-windows\WpfAppEventosPersonalizados.GeneratedMSBuildEditorConfig.editorconfig
+D:\DI2025\CS\WpfAppEventosPersonalizados\WpfAppEventosPersonalizados\obj\Debug\net8.0-windows\WpfAppEventosPersonalizados.AssemblyInfoInputs.cache
+D:\DI2025\CS\WpfAppEventosPersonalizados\WpfAppEventosPersonalizados\obj\Debug\net8.0-windows\WpfAppEventosPersonalizados.AssemblyInfo.cs
+D:\DI2025\CS\WpfAppEventosPersonalizados\WpfAppEventosPersonalizados\obj\Debug\net8.0-windows\WpfAppEventosPersonalizados.csproj.CoreCompileInputs.cache
+D:\DI2025\CS\WpfAppEventosPersonalizados\WpfAppEventosPersonalizados\obj\Debug\net8.0-windows\WpfAppEventosPersonalizados.dll
+D:\DI2025\CS\WpfAppEventosPersonalizados\WpfAppEventosPersonalizados\obj\Debug\net8.0-windows\refint\WpfAppEventosPersonalizados.dll
+D:\DI2025\CS\WpfAppEventosPersonalizados\WpfAppEventosPersonalizados\obj\Debug\net8.0-windows\WpfAppEventosPersonalizados.pdb
+D:\DI2025\CS\WpfAppEventosPersonalizados\WpfAppEventosPersonalizados\obj\Debug\net8.0-windows\WpfAppEventosPersonalizados.genruntimeconfig.cache
+D:\DI2025\CS\WpfAppEventosPersonalizados\WpfAppEventosPersonalizados\obj\Debug\net8.0-windows\ref\WpfAppEventosPersonalizados.dll
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppEventosPersonalizados\obj\Debug\net8.0-windows\WpfAppEventosPersonalizados.dll
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppEventosPersonalizados\obj\Debug\net8.0-windows\refint\WpfAppEventosPersonalizados.dll
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppEventosPersonalizados\obj\Debug\net8.0-windows\WpfAppEventosPersonalizados.pdb

@@ -1,0 +1,5 @@
+D:\source\WpfAppEventosPersonalizados\bin\Release\net6.0-windows\publish\WpfAppEventosPersonalizados.exe
+D:\source\WpfAppEventosPersonalizados\bin\Release\net6.0-windows\publish\WpfAppEventosPersonalizados.dll
+D:\source\WpfAppEventosPersonalizados\bin\Release\net6.0-windows\publish\WpfAppEventosPersonalizados.deps.json
+D:\source\WpfAppEventosPersonalizados\bin\Release\net6.0-windows\publish\WpfAppEventosPersonalizados.runtimeconfig.json
+D:\source\WpfAppEventosPersonalizados\bin\Release\net6.0-windows\publish\WpfAppEventosPersonalizados.pdb
