@@ -1,0 +1,42 @@
+D:\DI2025\CS\WpfAppAgua\WpfAppAgua\bin\Debug\net8.0-windows\WpfAppAgua.exe
+D:\DI2025\CS\WpfAppAgua\WpfAppAgua\bin\Debug\net8.0-windows\WpfAppAgua.deps.json
+D:\DI2025\CS\WpfAppAgua\WpfAppAgua\bin\Debug\net8.0-windows\WpfAppAgua.runtimeconfig.json
+D:\DI2025\CS\WpfAppAgua\WpfAppAgua\bin\Debug\net8.0-windows\WpfAppAgua.dll
+D:\DI2025\CS\WpfAppAgua\WpfAppAgua\bin\Debug\net8.0-windows\WpfAppAgua.pdb
+D:\DI2025\CS\WpfAppAgua\WpfAppAgua\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\DI2025\CS\WpfAppAgua\WpfAppAgua\obj\Debug\net8.0-windows\App.g.cs
+D:\DI2025\CS\WpfAppAgua\WpfAppAgua\obj\Debug\net8.0-windows\WpfAppAgua_MarkupCompile.cache
+D:\DI2025\CS\WpfAppAgua\WpfAppAgua\obj\Debug\net8.0-windows\WpfAppAgua_MarkupCompile.lref
+D:\DI2025\CS\WpfAppAgua\WpfAppAgua\obj\Debug\net8.0-windows\MainWindow.baml
+D:\DI2025\CS\WpfAppAgua\WpfAppAgua\obj\Debug\net8.0-windows\WpfAppAgua.g.resources
+D:\DI2025\CS\WpfAppAgua\WpfAppAgua\obj\Debug\net8.0-windows\WpfAppAgua.GeneratedMSBuildEditorConfig.editorconfig
+D:\DI2025\CS\WpfAppAgua\WpfAppAgua\obj\Debug\net8.0-windows\WpfAppAgua.AssemblyInfoInputs.cache
+D:\DI2025\CS\WpfAppAgua\WpfAppAgua\obj\Debug\net8.0-windows\WpfAppAgua.AssemblyInfo.cs
+D:\DI2025\CS\WpfAppAgua\WpfAppAgua\obj\Debug\net8.0-windows\WpfAppAgua.csproj.CoreCompileInputs.cache
+D:\DI2025\CS\WpfAppAgua\WpfAppAgua\obj\Debug\net8.0-windows\WpfAppAgua.dll
+D:\DI2025\CS\WpfAppAgua\WpfAppAgua\obj\Debug\net8.0-windows\refint\WpfAppAgua.dll
+D:\DI2025\CS\WpfAppAgua\WpfAppAgua\obj\Debug\net8.0-windows\WpfAppAgua.pdb
+D:\DI2025\CS\WpfAppAgua\WpfAppAgua\obj\Debug\net8.0-windows\WpfAppAgua.genruntimeconfig.cache
+D:\DI2025\CS\WpfAppAgua\WpfAppAgua\obj\Debug\net8.0-windows\ref\WpfAppAgua.dll
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppAgua2\WpfAppAgua2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppAgua2\WpfAppAgua2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppAgua2\WpfAppAgua2\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppAgua2\WpfAppAgua2\obj\Debug\net8.0-windows\WpfAppAgua_MarkupCompile.cache
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppAgua2\WpfAppAgua2\obj\Debug\net8.0-windows\WpfAppAgua_MarkupCompile.lref
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppAgua2\WpfAppAgua2\obj\Debug\net8.0-windows\WpfAppAgua.dll
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppAgua2\WpfAppAgua2\obj\Debug\net8.0-windows\refint\WpfAppAgua.dll
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppAgua2\WpfAppAgua2\obj\Debug\net8.0-windows\WpfAppAgua.pdb
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppAgua2\WpfAppAgua2\bin\Debug\net8.0-windows\WpfAppAgua.exe
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppAgua2\WpfAppAgua2\bin\Debug\net8.0-windows\WpfAppAgua.deps.json
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppAgua2\WpfAppAgua2\bin\Debug\net8.0-windows\WpfAppAgua.runtimeconfig.json
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppAgua2\WpfAppAgua2\bin\Debug\net8.0-windows\WpfAppAgua.dll
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppAgua2\WpfAppAgua2\bin\Debug\net8.0-windows\WpfAppAgua.pdb
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppAgua2\WpfAppAgua2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppAgua2\WpfAppAgua2\obj\Debug\net8.0-windows\WpfAppAgua.g.resources
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppAgua2\WpfAppAgua2\obj\Debug\net8.0-windows\WpfAppAgua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppAgua2\WpfAppAgua2\obj\Debug\net8.0-windows\WpfAppAgua.AssemblyInfoInputs.cache
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppAgua2\WpfAppAgua2\obj\Debug\net8.0-windows\WpfAppAgua.AssemblyInfo.cs
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppAgua2\WpfAppAgua2\obj\Debug\net8.0-windows\WpfAppAgua.csproj.CoreCompileInputs.cache
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppAgua2\WpfAppAgua2\obj\Debug\net8.0-windows\WpfAppAgua.sourcelink.json
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppAgua2\WpfAppAgua2\obj\Debug\net8.0-windows\WpfAppAgua.genruntimeconfig.cache
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppAgua2\WpfAppAgua2\obj\Debug\net8.0-windows\ref\WpfAppAgua.dll

@@ -1,0 +1,82 @@
+G:\sources\WpfAppAgua\bin\Debug\net6.0-windows\WpfAppAgua.exe
+G:\sources\WpfAppAgua\bin\Debug\net6.0-windows\WpfAppAgua.deps.json
+G:\sources\WpfAppAgua\bin\Debug\net6.0-windows\WpfAppAgua.runtimeconfig.json
+G:\sources\WpfAppAgua\bin\Debug\net6.0-windows\WpfAppAgua.dll
+G:\sources\WpfAppAgua\bin\Debug\net6.0-windows\WpfAppAgua.pdb
+G:\sources\WpfAppAgua\obj\Debug\net6.0-windows\WpfAppAgua.csproj.AssemblyReference.cache
+G:\sources\WpfAppAgua\obj\Debug\net6.0-windows\MainWindow.g.cs
+G:\sources\WpfAppAgua\obj\Debug\net6.0-windows\App.g.cs
+G:\sources\WpfAppAgua\obj\Debug\net6.0-windows\WpfAppAgua_MarkupCompile.cache
+G:\sources\WpfAppAgua\obj\Debug\net6.0-windows\WpfAppAgua_MarkupCompile.lref
+G:\sources\WpfAppAgua\obj\Debug\net6.0-windows\MainWindow.baml
+G:\sources\WpfAppAgua\obj\Debug\net6.0-windows\WpfAppAgua.g.resources
+G:\sources\WpfAppAgua\obj\Debug\net6.0-windows\WpfAppAgua.GeneratedMSBuildEditorConfig.editorconfig
+G:\sources\WpfAppAgua\obj\Debug\net6.0-windows\WpfAppAgua.AssemblyInfoInputs.cache
+G:\sources\WpfAppAgua\obj\Debug\net6.0-windows\WpfAppAgua.AssemblyInfo.cs
+G:\sources\WpfAppAgua\obj\Debug\net6.0-windows\WpfAppAgua.csproj.CoreCompileInputs.cache
+G:\sources\WpfAppAgua\obj\Debug\net6.0-windows\WpfAppAgua.dll
+G:\sources\WpfAppAgua\obj\Debug\net6.0-windows\refint\WpfAppAgua.dll
+G:\sources\WpfAppAgua\obj\Debug\net6.0-windows\WpfAppAgua.pdb
+G:\sources\WpfAppAgua\obj\Debug\net6.0-windows\WpfAppAgua.genruntimeconfig.cache
+G:\sources\WpfAppAgua\obj\Debug\net6.0-windows\ref\WpfAppAgua.dll
+G:\sources\WpfAppAgua - MVVM\bin\Debug\net6.0-windows\WpfAppAgua.exe
+G:\sources\WpfAppAgua - MVVM\bin\Debug\net6.0-windows\WpfAppAgua.deps.json
+G:\sources\WpfAppAgua - MVVM\bin\Debug\net6.0-windows\WpfAppAgua.runtimeconfig.json
+G:\sources\WpfAppAgua - MVVM\bin\Debug\net6.0-windows\WpfAppAgua.dll
+G:\sources\WpfAppAgua - MVVM\bin\Debug\net6.0-windows\WpfAppAgua.pdb
+G:\sources\WpfAppAgua - MVVM\obj\Debug\net6.0-windows\WpfAppAgua.csproj.AssemblyReference.cache
+G:\sources\WpfAppAgua - MVVM\obj\Debug\net6.0-windows\MainWindow.g.cs
+G:\sources\WpfAppAgua - MVVM\obj\Debug\net6.0-windows\App.g.cs
+G:\sources\WpfAppAgua - MVVM\obj\Debug\net6.0-windows\WpfAppAgua_MarkupCompile.cache
+G:\sources\WpfAppAgua - MVVM\obj\Debug\net6.0-windows\WpfAppAgua_MarkupCompile.lref
+G:\sources\WpfAppAgua - MVVM\obj\Debug\net6.0-windows\MainWindow.baml
+G:\sources\WpfAppAgua - MVVM\obj\Debug\net6.0-windows\WpfAppAgua.g.resources
+G:\sources\WpfAppAgua - MVVM\obj\Debug\net6.0-windows\WpfAppAgua.GeneratedMSBuildEditorConfig.editorconfig
+G:\sources\WpfAppAgua - MVVM\obj\Debug\net6.0-windows\WpfAppAgua.AssemblyInfoInputs.cache
+G:\sources\WpfAppAgua - MVVM\obj\Debug\net6.0-windows\WpfAppAgua.AssemblyInfo.cs
+G:\sources\WpfAppAgua - MVVM\obj\Debug\net6.0-windows\WpfAppAgua.csproj.CoreCompileInputs.cache
+G:\sources\WpfAppAgua - MVVM\obj\Debug\net6.0-windows\WpfAppAgua.dll
+G:\sources\WpfAppAgua - MVVM\obj\Debug\net6.0-windows\refint\WpfAppAgua.dll
+G:\sources\WpfAppAgua - MVVM\obj\Debug\net6.0-windows\WpfAppAgua.pdb
+G:\sources\WpfAppAgua - MVVM\obj\Debug\net6.0-windows\WpfAppAgua.genruntimeconfig.cache
+G:\sources\WpfAppAgua - MVVM\obj\Debug\net6.0-windows\ref\WpfAppAgua.dll
+D:\source\WpfAppAgua\bin\Debug\net6.0-windows\WpfAppAgua.exe
+D:\source\WpfAppAgua\bin\Debug\net6.0-windows\WpfAppAgua.deps.json
+D:\source\WpfAppAgua\bin\Debug\net6.0-windows\WpfAppAgua.runtimeconfig.json
+D:\source\WpfAppAgua\bin\Debug\net6.0-windows\WpfAppAgua.dll
+D:\source\WpfAppAgua\bin\Debug\net6.0-windows\WpfAppAgua.pdb
+D:\source\WpfAppAgua\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\source\WpfAppAgua\obj\Debug\net6.0-windows\App.g.cs
+D:\source\WpfAppAgua\obj\Debug\net6.0-windows\WpfAppAgua_MarkupCompile.cache
+D:\source\WpfAppAgua\obj\Debug\net6.0-windows\WpfAppAgua_MarkupCompile.lref
+D:\source\WpfAppAgua\obj\Debug\net6.0-windows\MainWindow.baml
+D:\source\WpfAppAgua\obj\Debug\net6.0-windows\WpfAppAgua.g.resources
+D:\source\WpfAppAgua\obj\Debug\net6.0-windows\WpfAppAgua.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\WpfAppAgua\obj\Debug\net6.0-windows\WpfAppAgua.AssemblyInfoInputs.cache
+D:\source\WpfAppAgua\obj\Debug\net6.0-windows\WpfAppAgua.AssemblyInfo.cs
+D:\source\WpfAppAgua\obj\Debug\net6.0-windows\WpfAppAgua.csproj.CoreCompileInputs.cache
+D:\source\WpfAppAgua\obj\Debug\net6.0-windows\WpfAppAgua.dll
+D:\source\WpfAppAgua\obj\Debug\net6.0-windows\refint\WpfAppAgua.dll
+D:\source\WpfAppAgua\obj\Debug\net6.0-windows\WpfAppAgua.pdb
+D:\source\WpfAppAgua\obj\Debug\net6.0-windows\WpfAppAgua.genruntimeconfig.cache
+D:\source\WpfAppAgua\obj\Debug\net6.0-windows\ref\WpfAppAgua.dll
+D:\DI2025\CS\WpfAppAgua\WpfAppAgua\bin\Debug\net6.0-windows\WpfAppAgua.exe
+D:\DI2025\CS\WpfAppAgua\WpfAppAgua\bin\Debug\net6.0-windows\WpfAppAgua.deps.json
+D:\DI2025\CS\WpfAppAgua\WpfAppAgua\bin\Debug\net6.0-windows\WpfAppAgua.runtimeconfig.json
+D:\DI2025\CS\WpfAppAgua\WpfAppAgua\bin\Debug\net6.0-windows\WpfAppAgua.dll
+D:\DI2025\CS\WpfAppAgua\WpfAppAgua\bin\Debug\net6.0-windows\WpfAppAgua.pdb
+D:\DI2025\CS\WpfAppAgua\WpfAppAgua\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\DI2025\CS\WpfAppAgua\WpfAppAgua\obj\Debug\net6.0-windows\App.g.cs
+D:\DI2025\CS\WpfAppAgua\WpfAppAgua\obj\Debug\net6.0-windows\WpfAppAgua_MarkupCompile.cache
+D:\DI2025\CS\WpfAppAgua\WpfAppAgua\obj\Debug\net6.0-windows\WpfAppAgua_MarkupCompile.lref
+D:\DI2025\CS\WpfAppAgua\WpfAppAgua\obj\Debug\net6.0-windows\MainWindow.baml
+D:\DI2025\CS\WpfAppAgua\WpfAppAgua\obj\Debug\net6.0-windows\WpfAppAgua.g.resources
+D:\DI2025\CS\WpfAppAgua\WpfAppAgua\obj\Debug\net6.0-windows\WpfAppAgua.GeneratedMSBuildEditorConfig.editorconfig
+D:\DI2025\CS\WpfAppAgua\WpfAppAgua\obj\Debug\net6.0-windows\WpfAppAgua.AssemblyInfoInputs.cache
+D:\DI2025\CS\WpfAppAgua\WpfAppAgua\obj\Debug\net6.0-windows\WpfAppAgua.AssemblyInfo.cs
+D:\DI2025\CS\WpfAppAgua\WpfAppAgua\obj\Debug\net6.0-windows\WpfAppAgua.csproj.CoreCompileInputs.cache
+D:\DI2025\CS\WpfAppAgua\WpfAppAgua\obj\Debug\net6.0-windows\WpfAppAgua.dll
+D:\DI2025\CS\WpfAppAgua\WpfAppAgua\obj\Debug\net6.0-windows\refint\WpfAppAgua.dll
+D:\DI2025\CS\WpfAppAgua\WpfAppAgua\obj\Debug\net6.0-windows\WpfAppAgua.pdb
+D:\DI2025\CS\WpfAppAgua\WpfAppAgua\obj\Debug\net6.0-windows\WpfAppAgua.genruntimeconfig.cache
+D:\DI2025\CS\WpfAppAgua\WpfAppAgua\obj\Debug\net6.0-windows\ref\WpfAppAgua.dll

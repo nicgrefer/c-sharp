@@ -1,0 +1,26 @@
+﻿<Window x:Class="WpfAppAgua.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppAgua"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <ProgressBar x:Name="pbDeposito"
+                     Orientation="Vertical"
+                     Background="LightGray"
+                     Foreground="Aqua"
+                     Value="10"
+                     Maximum="10"/>
+        <Button x:Name="botonBeber" Content="beber" 
+                Grid.Column="1" HorizontalAlignment="Left" Margin="160,202,0,0" VerticalAlignment="Top" Height="73" Width="112" 
+                Click="botonBeber_Click"/>
+        <Button x:Name="botonLlenar" Content="Llenar" Grid.Column="1" HorizontalAlignment="Left" Margin="160,289,0,0" VerticalAlignment="Top" Height="68" Width="112" 
+                Click="botonLlenar_Click"/>
+    </Grid>
+</Window>
