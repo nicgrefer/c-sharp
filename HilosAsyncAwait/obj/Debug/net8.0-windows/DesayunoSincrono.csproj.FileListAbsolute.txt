@@ -1,0 +1,81 @@
+G:\sources\cs\DesayunoSincrono\bin\Debug\net8.0-windows\DesayunoSincrono.exe
+G:\sources\cs\DesayunoSincrono\bin\Debug\net8.0-windows\DesayunoSincrono.deps.json
+G:\sources\cs\DesayunoSincrono\bin\Debug\net8.0-windows\DesayunoSincrono.runtimeconfig.json
+G:\sources\cs\DesayunoSincrono\bin\Debug\net8.0-windows\DesayunoSincrono.dll
+G:\sources\cs\DesayunoSincrono\bin\Debug\net8.0-windows\DesayunoSincrono.pdb
+G:\sources\cs\DesayunoSincrono\obj\Debug\net8.0-windows\MainWindow.g.cs
+G:\sources\cs\DesayunoSincrono\obj\Debug\net8.0-windows\App.g.cs
+G:\sources\cs\DesayunoSincrono\obj\Debug\net8.0-windows\DesayunoSincrono_MarkupCompile.cache
+G:\sources\cs\DesayunoSincrono\obj\Debug\net8.0-windows\DesayunoSincrono_MarkupCompile.lref
+G:\sources\cs\DesayunoSincrono\obj\Debug\net8.0-windows\MainWindow.baml
+G:\sources\cs\DesayunoSincrono\obj\Debug\net8.0-windows\DesayunoSincrono.g.resources
+G:\sources\cs\DesayunoSincrono\obj\Debug\net8.0-windows\DesayunoSincrono.GeneratedMSBuildEditorConfig.editorconfig
+G:\sources\cs\DesayunoSincrono\obj\Debug\net8.0-windows\DesayunoSincrono.AssemblyInfoInputs.cache
+G:\sources\cs\DesayunoSincrono\obj\Debug\net8.0-windows\DesayunoSincrono.AssemblyInfo.cs
+G:\sources\cs\DesayunoSincrono\obj\Debug\net8.0-windows\DesayunoSincrono.csproj.CoreCompileInputs.cache
+G:\sources\cs\DesayunoSincrono\obj\Debug\net8.0-windows\DesayunoSincrono.dll
+G:\sources\cs\DesayunoSincrono\obj\Debug\net8.0-windows\refint\DesayunoSincrono.dll
+G:\sources\cs\DesayunoSincrono\obj\Debug\net8.0-windows\DesayunoSincrono.pdb
+G:\sources\cs\DesayunoSincrono\obj\Debug\net8.0-windows\DesayunoSincrono.genruntimeconfig.cache
+G:\sources\cs\DesayunoSincrono\obj\Debug\net8.0-windows\ref\DesayunoSincrono.dll
+C:\Users\alberto\Documents\ejercicios\CS\DesayunoSincrono\bin\Debug\net8.0-windows\DesayunoSincrono.exe
+C:\Users\alberto\Documents\ejercicios\CS\DesayunoSincrono\bin\Debug\net8.0-windows\DesayunoSincrono.deps.json
+C:\Users\alberto\Documents\ejercicios\CS\DesayunoSincrono\bin\Debug\net8.0-windows\DesayunoSincrono.runtimeconfig.json
+C:\Users\alberto\Documents\ejercicios\CS\DesayunoSincrono\bin\Debug\net8.0-windows\DesayunoSincrono.dll
+C:\Users\alberto\Documents\ejercicios\CS\DesayunoSincrono\bin\Debug\net8.0-windows\DesayunoSincrono.pdb
+C:\Users\alberto\Documents\ejercicios\CS\DesayunoSincrono\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\alberto\Documents\ejercicios\CS\DesayunoSincrono\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\alberto\Documents\ejercicios\CS\DesayunoSincrono\obj\Debug\net8.0-windows\DesayunoSincrono_MarkupCompile.cache
+C:\Users\alberto\Documents\ejercicios\CS\DesayunoSincrono\obj\Debug\net8.0-windows\DesayunoSincrono_MarkupCompile.lref
+C:\Users\alberto\Documents\ejercicios\CS\DesayunoSincrono\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\alberto\Documents\ejercicios\CS\DesayunoSincrono\obj\Debug\net8.0-windows\DesayunoSincrono.g.resources
+C:\Users\alberto\Documents\ejercicios\CS\DesayunoSincrono\obj\Debug\net8.0-windows\DesayunoSincrono.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Documents\ejercicios\CS\DesayunoSincrono\obj\Debug\net8.0-windows\DesayunoSincrono.AssemblyInfoInputs.cache
+C:\Users\alberto\Documents\ejercicios\CS\DesayunoSincrono\obj\Debug\net8.0-windows\DesayunoSincrono.AssemblyInfo.cs
+C:\Users\alberto\Documents\ejercicios\CS\DesayunoSincrono\obj\Debug\net8.0-windows\DesayunoSincrono.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Documents\ejercicios\CS\DesayunoSincrono\obj\Debug\net8.0-windows\DesayunoSincrono.dll
+C:\Users\alberto\Documents\ejercicios\CS\DesayunoSincrono\obj\Debug\net8.0-windows\refint\DesayunoSincrono.dll
+C:\Users\alberto\Documents\ejercicios\CS\DesayunoSincrono\obj\Debug\net8.0-windows\DesayunoSincrono.pdb
+C:\Users\alberto\Documents\ejercicios\CS\DesayunoSincrono\obj\Debug\net8.0-windows\DesayunoSincrono.genruntimeconfig.cache
+C:\Users\alberto\Documents\ejercicios\CS\DesayunoSincrono\obj\Debug\net8.0-windows\ref\DesayunoSincrono.dll
+C:\Users\alberto\Documents\ejercicios\CS\HilosAsyncAwait\bin\Debug\net8.0-windows\DesayunoSincrono.exe
+C:\Users\alberto\Documents\ejercicios\CS\HilosAsyncAwait\bin\Debug\net8.0-windows\DesayunoSincrono.deps.json
+C:\Users\alberto\Documents\ejercicios\CS\HilosAsyncAwait\bin\Debug\net8.0-windows\DesayunoSincrono.runtimeconfig.json
+C:\Users\alberto\Documents\ejercicios\CS\HilosAsyncAwait\bin\Debug\net8.0-windows\DesayunoSincrono.dll
+C:\Users\alberto\Documents\ejercicios\CS\HilosAsyncAwait\bin\Debug\net8.0-windows\DesayunoSincrono.pdb
+C:\Users\alberto\Documents\ejercicios\CS\HilosAsyncAwait\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\alberto\Documents\ejercicios\CS\HilosAsyncAwait\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\alberto\Documents\ejercicios\CS\HilosAsyncAwait\obj\Debug\net8.0-windows\DesayunoSincrono_MarkupCompile.cache
+C:\Users\alberto\Documents\ejercicios\CS\HilosAsyncAwait\obj\Debug\net8.0-windows\DesayunoSincrono_MarkupCompile.lref
+C:\Users\alberto\Documents\ejercicios\CS\HilosAsyncAwait\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\alberto\Documents\ejercicios\CS\HilosAsyncAwait\obj\Debug\net8.0-windows\DesayunoSincrono.g.resources
+C:\Users\alberto\Documents\ejercicios\CS\HilosAsyncAwait\obj\Debug\net8.0-windows\DesayunoSincrono.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Documents\ejercicios\CS\HilosAsyncAwait\obj\Debug\net8.0-windows\DesayunoSincrono.AssemblyInfoInputs.cache
+C:\Users\alberto\Documents\ejercicios\CS\HilosAsyncAwait\obj\Debug\net8.0-windows\DesayunoSincrono.AssemblyInfo.cs
+C:\Users\alberto\Documents\ejercicios\CS\HilosAsyncAwait\obj\Debug\net8.0-windows\DesayunoSincrono.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Documents\ejercicios\CS\HilosAsyncAwait\obj\Debug\net8.0-windows\DesayunoSincrono.dll
+C:\Users\alberto\Documents\ejercicios\CS\HilosAsyncAwait\obj\Debug\net8.0-windows\refint\DesayunoSincrono.dll
+C:\Users\alberto\Documents\ejercicios\CS\HilosAsyncAwait\obj\Debug\net8.0-windows\DesayunoSincrono.pdb
+C:\Users\alberto\Documents\ejercicios\CS\HilosAsyncAwait\obj\Debug\net8.0-windows\DesayunoSincrono.genruntimeconfig.cache
+C:\Users\alberto\Documents\ejercicios\CS\HilosAsyncAwait\obj\Debug\net8.0-windows\ref\DesayunoSincrono.dll
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\HilosAsyncAwait\bin\Debug\net8.0-windows\DesayunoSincrono.exe
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\HilosAsyncAwait\bin\Debug\net8.0-windows\DesayunoSincrono.deps.json
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\HilosAsyncAwait\bin\Debug\net8.0-windows\DesayunoSincrono.runtimeconfig.json
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\HilosAsyncAwait\bin\Debug\net8.0-windows\DesayunoSincrono.dll
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\HilosAsyncAwait\bin\Debug\net8.0-windows\DesayunoSincrono.pdb
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\HilosAsyncAwait\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\HilosAsyncAwait\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\HilosAsyncAwait\obj\Debug\net8.0-windows\DesayunoSincrono_MarkupCompile.cache
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\HilosAsyncAwait\obj\Debug\net8.0-windows\DesayunoSincrono_MarkupCompile.lref
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\HilosAsyncAwait\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\HilosAsyncAwait\obj\Debug\net8.0-windows\DesayunoSincrono.g.resources
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\HilosAsyncAwait\obj\Debug\net8.0-windows\DesayunoSincrono.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\HilosAsyncAwait\obj\Debug\net8.0-windows\DesayunoSincrono.AssemblyInfoInputs.cache
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\HilosAsyncAwait\obj\Debug\net8.0-windows\DesayunoSincrono.AssemblyInfo.cs
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\HilosAsyncAwait\obj\Debug\net8.0-windows\DesayunoSincrono.csproj.CoreCompileInputs.cache
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\HilosAsyncAwait\obj\Debug\net8.0-windows\DesayunoSincrono.sourcelink.json
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\HilosAsyncAwait\obj\Debug\net8.0-windows\DesayunoSincrono.dll
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\HilosAsyncAwait\obj\Debug\net8.0-windows\refint\DesayunoSincrono.dll
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\HilosAsyncAwait\obj\Debug\net8.0-windows\DesayunoSincrono.pdb
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\HilosAsyncAwait\obj\Debug\net8.0-windows\DesayunoSincrono.genruntimeconfig.cache
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\HilosAsyncAwait\obj\Debug\net8.0-windows\ref\DesayunoSincrono.dll
