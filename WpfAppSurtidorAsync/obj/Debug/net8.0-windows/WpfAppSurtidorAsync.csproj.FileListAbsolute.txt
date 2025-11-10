@@ -1,0 +1,41 @@
+G:\sources\CS\WpfAppSurtidorAsync\bin\Debug\net8.0-windows\WpfAppSurtidorAsync.exe
+G:\sources\CS\WpfAppSurtidorAsync\bin\Debug\net8.0-windows\WpfAppSurtidorAsync.deps.json
+G:\sources\CS\WpfAppSurtidorAsync\bin\Debug\net8.0-windows\WpfAppSurtidorAsync.runtimeconfig.json
+G:\sources\CS\WpfAppSurtidorAsync\bin\Debug\net8.0-windows\WpfAppSurtidorAsync.dll
+G:\sources\CS\WpfAppSurtidorAsync\bin\Debug\net8.0-windows\WpfAppSurtidorAsync.pdb
+G:\sources\CS\WpfAppSurtidorAsync\obj\Debug\net8.0-windows\MainWindow.g.cs
+G:\sources\CS\WpfAppSurtidorAsync\obj\Debug\net8.0-windows\App.g.cs
+G:\sources\CS\WpfAppSurtidorAsync\obj\Debug\net8.0-windows\WpfAppSurtidorAsync_MarkupCompile.cache
+G:\sources\CS\WpfAppSurtidorAsync\obj\Debug\net8.0-windows\WpfAppSurtidorAsync_MarkupCompile.lref
+G:\sources\CS\WpfAppSurtidorAsync\obj\Debug\net8.0-windows\MainWindow.baml
+G:\sources\CS\WpfAppSurtidorAsync\obj\Debug\net8.0-windows\WpfAppSurtidorAsync.g.resources
+G:\sources\CS\WpfAppSurtidorAsync\obj\Debug\net8.0-windows\WpfAppSurtidorAsync.GeneratedMSBuildEditorConfig.editorconfig
+G:\sources\CS\WpfAppSurtidorAsync\obj\Debug\net8.0-windows\WpfAppSurtidorAsync.AssemblyInfoInputs.cache
+G:\sources\CS\WpfAppSurtidorAsync\obj\Debug\net8.0-windows\WpfAppSurtidorAsync.AssemblyInfo.cs
+G:\sources\CS\WpfAppSurtidorAsync\obj\Debug\net8.0-windows\WpfAppSurtidorAsync.csproj.CoreCompileInputs.cache
+G:\sources\CS\WpfAppSurtidorAsync\obj\Debug\net8.0-windows\WpfAppSurtidorAsync.dll
+G:\sources\CS\WpfAppSurtidorAsync\obj\Debug\net8.0-windows\refint\WpfAppSurtidorAsync.dll
+G:\sources\CS\WpfAppSurtidorAsync\obj\Debug\net8.0-windows\WpfAppSurtidorAsync.pdb
+G:\sources\CS\WpfAppSurtidorAsync\obj\Debug\net8.0-windows\WpfAppSurtidorAsync.genruntimeconfig.cache
+G:\sources\CS\WpfAppSurtidorAsync\obj\Debug\net8.0-windows\ref\WpfAppSurtidorAsync.dll
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppSurtidorAsync\bin\Debug\net8.0-windows\WpfAppSurtidorAsync.exe
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppSurtidorAsync\bin\Debug\net8.0-windows\WpfAppSurtidorAsync.deps.json
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppSurtidorAsync\bin\Debug\net8.0-windows\WpfAppSurtidorAsync.runtimeconfig.json
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppSurtidorAsync\bin\Debug\net8.0-windows\WpfAppSurtidorAsync.dll
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppSurtidorAsync\bin\Debug\net8.0-windows\WpfAppSurtidorAsync.pdb
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppSurtidorAsync\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppSurtidorAsync\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppSurtidorAsync\obj\Debug\net8.0-windows\WpfAppSurtidorAsync_MarkupCompile.cache
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppSurtidorAsync\obj\Debug\net8.0-windows\WpfAppSurtidorAsync_MarkupCompile.lref
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppSurtidorAsync\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppSurtidorAsync\obj\Debug\net8.0-windows\WpfAppSurtidorAsync.g.resources
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppSurtidorAsync\obj\Debug\net8.0-windows\WpfAppSurtidorAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppSurtidorAsync\obj\Debug\net8.0-windows\WpfAppSurtidorAsync.AssemblyInfoInputs.cache
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppSurtidorAsync\obj\Debug\net8.0-windows\WpfAppSurtidorAsync.AssemblyInfo.cs
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppSurtidorAsync\obj\Debug\net8.0-windows\WpfAppSurtidorAsync.csproj.CoreCompileInputs.cache
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppSurtidorAsync\obj\Debug\net8.0-windows\WpfAppSurtidorAsync.sourcelink.json
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppSurtidorAsync\obj\Debug\net8.0-windows\WpfAppSurtidorAsync.dll
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppSurtidorAsync\obj\Debug\net8.0-windows\refint\WpfAppSurtidorAsync.dll
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppSurtidorAsync\obj\Debug\net8.0-windows\WpfAppSurtidorAsync.pdb
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppSurtidorAsync\obj\Debug\net8.0-windows\WpfAppSurtidorAsync.genruntimeconfig.cache
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\WpfAppSurtidorAsync\obj\Debug\net8.0-windows\ref\WpfAppSurtidorAsync.dll

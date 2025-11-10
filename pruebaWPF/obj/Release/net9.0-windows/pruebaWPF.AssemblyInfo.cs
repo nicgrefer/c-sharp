@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pruebaWPF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbf3ff5389352f25970fa0f92fccdad90a60c5e4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f542699a2451f81756fe45e32a516722c2d181c")]
 [assembly: System.Reflection.AssemblyProductAttribute("pruebaWPF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pruebaWPF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

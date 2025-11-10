@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WpfAppEventosPersonalizados")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0bd00653122902abe93bcc890120650c5eed4255")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f542699a2451f81756fe45e32a516722c2d181c")]
 [assembly: System.Reflection.AssemblyProductAttribute("WpfAppEventosPersonalizados")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WpfAppEventosPersonalizados")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

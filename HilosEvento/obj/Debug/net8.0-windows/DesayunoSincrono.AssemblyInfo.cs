@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesayunoSincrono")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b09b5b937b3c39a45c828b4911c724c781de4032")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f542699a2451f81756fe45e32a516722c2d181c")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesayunoSincrono")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesayunoSincrono")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

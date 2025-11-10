@@ -1,0 +1,54 @@
+﻿<Window x:Class="WpfAppSurtidorAsync.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppSurtidorAsync"
+        Language="es-ES"
+        mc:Ignorable="d" Title="Surtidor de Gasolina Asíncrono" Height="450" Width="400" WindowStartupLocation="CenterScreen">
+
+    <StackPanel Margin="20">
+
+        <Border BorderBrush="Black" BorderThickness="2" Padding="10" Margin="0,0,0,10">
+            <StackPanel>
+                <TextBlock Text="IMPORTE DESEADO:" FontSize="14" FontWeight="Bold" />
+                <TextBlock x:Name="txtImporteSolicitado" Text="{Binding ImporteSolicitado, StringFormat={}{0:C}}"
+                           FontSize="24" HorizontalAlignment="Right" Foreground="Blue"/>
+            </StackPanel>
+        </Border>
+
+        <Border BorderBrush="Black" BorderThickness="2" Padding="10">
+            <StackPanel>
+                <TextBlock Text="IMPORTE SURTIDO:" FontSize="14" FontWeight="Bold"/>
+                <TextBlock x:Name="txtImporteSurtido" Text="{Binding ImporteSurtido, StringFormat={}{0:C}}" 
+                           FontSize="36" FontWeight="Bold" HorizontalAlignment="Right" Foreground="Green"/>
+            </StackPanel>
+        </Border>
+
+        <TextBlock Text="{Binding TextoEstado}" FontSize="16" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,15,0,15" Foreground="DarkRed"/>
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <StackPanel Grid.Column="0" Margin="0,0,10,0">
+                <Button x:Name="Add1Button" Content="+1 €" Height="50" Margin="5" 
+                        Click="SumarImporte" Tag="1" IsEnabled="{Binding PuedoAsignarImporte}"/>
+                <Button x:Name="Add10Button" Content="+10 €" Height="50" Margin="5"
+                        Click="SumarImporte" Tag="10" IsEnabled="{Binding PuedoAsignarImporte}"/>
+            </StackPanel>
+
+            <StackPanel Grid.Column="1" Margin="10,0,0,0">
+                <Button x:Name="BotonDescolgar" Content="Descolgar Manguera" Height="35" 
+                        Margin="5" Click="Descolgar_Click" IsEnabled="{Binding PuedoDescolgar}"/>
+                <Button x:Name="BotonSurtir" Content="Surtir Gasolina" Height="35" 
+                        Margin="5" Click="Surtir_Click" IsEnabled="{Binding PuedoSurtir}"/>
+                <Button x:Name="BotonColgar" Content="Colgar Manguera" Height="35" 
+                        Margin="5" Click="Colgar_Click" IsEnabled="{Binding PuedoColgar}"/>
+            </StackPanel>
+        </Grid>
+
+    </StackPanel>
+</Window>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WpfAppPubSuscriptor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f542699a2451f81756fe45e32a516722c2d181c")]
 [assembly: System.Reflection.AssemblyProductAttribute("WpfAppPubSuscriptor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WpfAppPubSuscriptor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

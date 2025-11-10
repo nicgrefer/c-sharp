@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WpfAppSurtidorAsync/1.0.0": {
+        "runtime": {
+          "WpfAppSurtidorAsync.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfAppSurtidorAsync/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,8 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\WpfAppCoches",
-    "\\WpfAppDockpanelFotos"
+    "\\WpfAppSurtidorAsync"
   ],
+  "SelectedNode": "\\WpfAppSurtidorAsync\\MainWindow.xaml.cs",
   "PreviewInSolutionExplorer": false
 }
