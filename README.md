@@ -11,6 +11,15 @@ Este repositorio contiene diferentes **ejercicios prácticos y ejemplos de códi
 > [!NOTE]
 >  Si el proyecto no se puede ver en modo *diseño* ay que: Archivo > Abrir > Archivo > ****.sln
 
+> [!NOTE]
+>  Para LINQ y quieres hacer un proyecto desde `vs code` desde la terminal se crea el proyecto :
+> ```` 
+> dotnet new console -n NombreProyecto --use-program-main -f net8.0
+> cd NombreProyecto
+> code .
+> ````
+
+
 ## 🚀 Contenido
 
 * Ejemplos básicos de sintaxis en C#
