@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8I13U3S+4VE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jovcubni\\Desktop\\c sharp\\c-sharp\\LINQ\\pruebas\\pruebas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jovcubni\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\jovcubni\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\jovcubni\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.22\\microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\jovcubni\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.22\\microsoft.netcore.app.host.win-x64.8.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

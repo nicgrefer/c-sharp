@@ -1,0 +1,15 @@
+c:\Users\jovcubni\Desktop\c sharp\c-sharp\LINQ\pruebas\bin\Debug\net8.0\pruebas.exe
+c:\Users\jovcubni\Desktop\c sharp\c-sharp\LINQ\pruebas\bin\Debug\net8.0\pruebas.deps.json
+c:\Users\jovcubni\Desktop\c sharp\c-sharp\LINQ\pruebas\bin\Debug\net8.0\pruebas.runtimeconfig.json
+c:\Users\jovcubni\Desktop\c sharp\c-sharp\LINQ\pruebas\bin\Debug\net8.0\pruebas.dll
+c:\Users\jovcubni\Desktop\c sharp\c-sharp\LINQ\pruebas\bin\Debug\net8.0\pruebas.pdb
+c:\Users\jovcubni\Desktop\c sharp\c-sharp\LINQ\pruebas\obj\Debug\net8.0\pruebas.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\jovcubni\Desktop\c sharp\c-sharp\LINQ\pruebas\obj\Debug\net8.0\pruebas.AssemblyInfoInputs.cache
+c:\Users\jovcubni\Desktop\c sharp\c-sharp\LINQ\pruebas\obj\Debug\net8.0\pruebas.AssemblyInfo.cs
+c:\Users\jovcubni\Desktop\c sharp\c-sharp\LINQ\pruebas\obj\Debug\net8.0\pruebas.csproj.CoreCompileInputs.cache
+c:\Users\jovcubni\Desktop\c sharp\c-sharp\LINQ\pruebas\obj\Debug\net8.0\pruebas.sourcelink.json
+c:\Users\jovcubni\Desktop\c sharp\c-sharp\LINQ\pruebas\obj\Debug\net8.0\pruebas.dll
+c:\Users\jovcubni\Desktop\c sharp\c-sharp\LINQ\pruebas\obj\Debug\net8.0\refint\pruebas.dll
+c:\Users\jovcubni\Desktop\c sharp\c-sharp\LINQ\pruebas\obj\Debug\net8.0\pruebas.pdb
+c:\Users\jovcubni\Desktop\c sharp\c-sharp\LINQ\pruebas\obj\Debug\net8.0\pruebas.genruntimeconfig.cache
+c:\Users\jovcubni\Desktop\c sharp\c-sharp\LINQ\pruebas\obj\Debug\net8.0\ref\pruebas.dll
