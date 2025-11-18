@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jovcubni\\Desktop\\c sharp\\c-sharp\\LINQ\\pruebas\\pruebas.csproj": {}
+    "c:\\Users\\jovcubni\\Desktop\\c sharp\\c-sharp\\LINQ\\pruebas\\pruebas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jovcubni\\Desktop\\c sharp\\c-sharp\\LINQ\\pruebas\\pruebas.csproj": {
+    "c:\\Users\\jovcubni\\Desktop\\c sharp\\c-sharp\\LINQ\\pruebas\\pruebas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jovcubni\\Desktop\\c sharp\\c-sharp\\LINQ\\pruebas\\pruebas.csproj",
+        "projectUniqueName": "c:\\Users\\jovcubni\\Desktop\\c sharp\\c-sharp\\LINQ\\pruebas\\pruebas.csproj",
         "projectName": "pruebas",
-        "projectPath": "C:\\Users\\jovcubni\\Desktop\\c sharp\\c-sharp\\LINQ\\pruebas\\pruebas.csproj",
+        "projectPath": "c:\\Users\\jovcubni\\Desktop\\c sharp\\c-sharp\\LINQ\\pruebas\\pruebas.csproj",
         "packagesPath": "C:\\Users\\jovcubni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jovcubni\\Desktop\\c sharp\\c-sharp\\LINQ\\pruebas\\obj\\",
+        "outputPath": "c:\\Users\\jovcubni\\Desktop\\c sharp\\c-sharp\\LINQ\\pruebas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
