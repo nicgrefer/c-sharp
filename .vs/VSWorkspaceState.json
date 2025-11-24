@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\2 eva",
+    "\\2 eva\\WpfAppFactura",
     "\\WpfAppSurtidorAsync"
   ],
-  "SelectedNode": "\\WpfAppSurtidorAsync\\MainWindow.xaml.cs",
+  "SelectedNode": "\\2 eva\\WpfAppFactura\\MainWindow.xaml.cs",
   "PreviewInSolutionExplorer": false
 }
