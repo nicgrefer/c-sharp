@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jovcubni\\Downloads\\WpfAppExcelXML\\WpfAppExcelXML\\",
+  "WorkspaceRootPath": "C:\\Users\\jovcubni\\Desktop\\c sharp\\c-sharp\\2 eva\\WpfAppExcelXmlEjerFactura\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{36C9FF18-21E4-439A-9878-6299DE2B7A03}|WpfAppExcelXML.csproj|c:\\users\\jovcubni\\downloads\\wpfappexcelxml\\wpfappexcelxml\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{36C9FF18-21E4-439A-9878-6299DE2B7A03}|WpfAppExcelXML.csproj|c:\\users\\jovcubni\\desktop\\c sharp\\c-sharp\\2 eva\\wpfappexcelxmlejerfactura\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36C9FF18-21E4-439A-9878-6299DE2B7A03}|WpfAppExcelXML.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36C9FF18-21E4-439A-9878-6299DE2B7A03}|WpfAppExcelXML.csproj|c:\\users\\jovcubni\\downloads\\wpfappexcelxml\\wpfappexcelxml\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{36C9FF18-21E4-439A-9878-6299DE2B7A03}|WpfAppExcelXML.csproj|c:\\users\\jovcubni\\desktop\\c sharp\\c-sharp\\2 eva\\wpfappexcelxmlejerfactura\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{36C9FF18-21E4-439A-9878-6299DE2B7A03}|WpfAppExcelXML.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -56,23 +56,22 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\jovcubni\\Downloads\\WpfAppExcelXML\\WpfAppExcelXML\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\jovcubni\\Desktop\\c sharp\\c-sharp\\2 eva\\WpfAppExcelXmlEjerFactura\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\jovcubni\\Downloads\\WpfAppExcelXML\\WpfAppExcelXML\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\jovcubni\\Desktop\\c sharp\\c-sharp\\2 eva\\WpfAppExcelXmlEjerFactura\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-23T16:30:12.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-23T16:30:12.841Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\jovcubni\\Downloads\\WpfAppExcelXML\\WpfAppExcelXML\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jovcubni\\Desktop\\c sharp\\c-sharp\\2 eva\\WpfAppExcelXmlEjerFactura\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\jovcubni\\Downloads\\WpfAppExcelXML\\WpfAppExcelXML\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\jovcubni\\Desktop\\c sharp\\c-sharp\\2 eva\\WpfAppExcelXmlEjerFactura\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAAwHEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-23T16:30:08.092Z",
               "EditorCaption": ""

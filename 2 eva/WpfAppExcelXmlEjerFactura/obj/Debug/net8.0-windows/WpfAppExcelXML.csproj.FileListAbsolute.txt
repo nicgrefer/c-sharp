@@ -58,3 +58,34 @@ C:\Users\jovcubni\Downloads\WpfAppExcelXML\WpfAppExcelXML\obj\Debug\net8.0-windo
 C:\Users\jovcubni\Downloads\WpfAppExcelXML\WpfAppExcelXML\obj\Debug\net8.0-windows\WpfAppExcelXML.pdb
 C:\Users\jovcubni\Downloads\WpfAppExcelXML\WpfAppExcelXML\obj\Debug\net8.0-windows\WpfAppExcelXML.genruntimeconfig.cache
 C:\Users\jovcubni\Downloads\WpfAppExcelXML\WpfAppExcelXML\obj\Debug\net8.0-windows\ref\WpfAppExcelXML.dll
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\2 eva\WpfAppExcelXmlEjerFactura\obj\Debug\net8.0-windows\WpfAppExcelXML.csproj.AssemblyReference.cache
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\2 eva\WpfAppExcelXmlEjerFactura\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\2 eva\WpfAppExcelXmlEjerFactura\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\2 eva\WpfAppExcelXmlEjerFactura\obj\Debug\net8.0-windows\WpfAppExcelXML_MarkupCompile.cache
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\2 eva\WpfAppExcelXmlEjerFactura\obj\Debug\net8.0-windows\WpfAppExcelXML_MarkupCompile.lref
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\2 eva\WpfAppExcelXmlEjerFactura\obj\Debug\net8.0-windows\WpfAppExcelXML.dll
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\2 eva\WpfAppExcelXmlEjerFactura\obj\Debug\net8.0-windows\refint\WpfAppExcelXML.dll
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\2 eva\WpfAppExcelXmlEjerFactura\obj\Debug\net8.0-windows\WpfAppExcelXML.pdb
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\2 eva\WpfAppExcelXmlEjerFactura\bin\Debug\net8.0-windows\WpfAppExcelXML.exe
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\2 eva\WpfAppExcelXmlEjerFactura\bin\Debug\net8.0-windows\WpfAppExcelXML.deps.json
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\2 eva\WpfAppExcelXmlEjerFactura\bin\Debug\net8.0-windows\WpfAppExcelXML.runtimeconfig.json
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\2 eva\WpfAppExcelXmlEjerFactura\bin\Debug\net8.0-windows\WpfAppExcelXML.dll
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\2 eva\WpfAppExcelXmlEjerFactura\bin\Debug\net8.0-windows\WpfAppExcelXML.pdb
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\2 eva\WpfAppExcelXmlEjerFactura\bin\Debug\net8.0-windows\ClosedXML.dll
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\2 eva\WpfAppExcelXmlEjerFactura\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\2 eva\WpfAppExcelXmlEjerFactura\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\2 eva\WpfAppExcelXmlEjerFactura\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\2 eva\WpfAppExcelXmlEjerFactura\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\2 eva\WpfAppExcelXmlEjerFactura\bin\Debug\net8.0-windows\RBush.dll
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\2 eva\WpfAppExcelXmlEjerFactura\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\2 eva\WpfAppExcelXmlEjerFactura\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\2 eva\WpfAppExcelXmlEjerFactura\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\2 eva\WpfAppExcelXmlEjerFactura\obj\Debug\net8.0-windows\WpfAppExcelXML.g.resources
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\2 eva\WpfAppExcelXmlEjerFactura\obj\Debug\net8.0-windows\WpfAppExcelXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\2 eva\WpfAppExcelXmlEjerFactura\obj\Debug\net8.0-windows\WpfAppExcelXML.AssemblyInfoInputs.cache
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\2 eva\WpfAppExcelXmlEjerFactura\obj\Debug\net8.0-windows\WpfAppExcelXML.AssemblyInfo.cs
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\2 eva\WpfAppExcelXmlEjerFactura\obj\Debug\net8.0-windows\WpfAppExcelXML.csproj.CoreCompileInputs.cache
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\2 eva\WpfAppExcelXmlEjerFactura\obj\Debug\net8.0-windows\WpfAppExcelXML.sourcelink.json
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\2 eva\WpfAppExcelXmlEjerFactura\obj\Debug\net8.0-windows\WpfAppEx.B20E8D51.Up2Date
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\2 eva\WpfAppExcelXmlEjerFactura\obj\Debug\net8.0-windows\WpfAppExcelXML.genruntimeconfig.cache
+C:\Users\jovcubni\Desktop\c sharp\c-sharp\2 eva\WpfAppExcelXmlEjerFactura\obj\Debug\net8.0-windows\ref\WpfAppExcelXML.dll
