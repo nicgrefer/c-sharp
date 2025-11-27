@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "dEe+SjIlOH4=",
+  "success": true,
+  "projectFilePath": "G:\\sources\\CS\\WpfAppDocX\\WpfAppDocX.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alberto\\.nuget\\packages\\docx\\5.0.0\\docx.5.0.0.nupkg.sha512",
+    "C:\\Users\\Alberto\\.nuget\\packages\\skiasharp\\2.88.8\\skiasharp.2.88.8.nupkg.sha512",
+    "C:\\Users\\Alberto\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.8\\skiasharp.nativeassets.macos.2.88.8.nupkg.sha512",
+    "C:\\Users\\Alberto\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.8\\skiasharp.nativeassets.win32.2.88.8.nupkg.sha512",
+    "C:\\Users\\Alberto\\.nuget\\packages\\system.io.packaging\\4.5.0\\system.io.packaging.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
