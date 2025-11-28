@@ -13,7 +13,7 @@ namespace WpfAppCertificado
 {
     public partial class MainWindow : Window
     {
-        // Definición de Clases según el PDF
+        
         public class Estudiante
         {
             public string ID { get; set; }
@@ -44,12 +44,12 @@ namespace WpfAppCertificado
 
         private void CargarDatos()
         {
-            // Datos de ejemplo según el PDF
+           
             listaEstudiantes = new List<Estudiante>
             {
                 new Estudiante {
                     ID = "E009876",
-                    Nombre = "Ana María Torres Soto",
+                    Nombre = "Nicolás Jové Cubillo",
                     FechaNacimiento = new DateTime(2000, 5, 15),
                     NivelEstudios = "Grado en Ingeniería Informática"
                 }
@@ -79,7 +79,7 @@ namespace WpfAppCertificado
                     NivelEstudios = est.NivelEstudios,
                     Institucion = "Universidad de Valladolid",
                     FechaEmision = DateTime.Now,
-                    // Recupera y agrupa las notas
+                   
                     NotasRegistradas = listaNotas
                         .Where(n => n.EstudianteID == est.ID)
                         .Select(n => new
@@ -90,7 +90,7 @@ namespace WpfAppCertificado
                             n.Creditos
                         }).ToList()
                 })
-                .FirstOrDefault(); // Toma el primer resultado
+                .FirstOrDefault(); 
 
             if (datosCertificado == null)
             {
@@ -109,7 +109,7 @@ namespace WpfAppCertificado
             {
                 try
                 {
-                    // Pasamos 'dynamic' porque la consulta LINQ devuelve un tipo anónimo
+                    
                     GenerarWord(datosCertificado, saveFileDialog.FileName);
 
                     var result = MessageBox.Show("Certificado generado. ¿Deseas abrirlo?", "Éxito", MessageBoxButton.YesNo, MessageBoxImage.Information);
@@ -125,7 +125,7 @@ namespace WpfAppCertificado
             }
         }
 
-        // Recibe 'dynamic' para manejar el objeto anónimo de la LINQ
+        
         private void GenerarWord(dynamic datos, string rutaArchivo)
         {
             using (var doc = DocX.Create(rutaArchivo))
@@ -138,11 +138,10 @@ namespace WpfAppCertificado
                 headerTable.Alignment = Xceed.Document.NET.Alignment.center;
                 headerTable.AutoFit = AutoFit.Window;
 
-                // Columna 1: Logo
                 var celdaLogo = headerTable.Rows[0].Cells[0];
                 celdaLogo.Width = 80;
 
-                // Buscar el logo en varias ubicaciones y como recurso embebido
+                
                 string[] candidates = new[]
                 {
                     Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "logo.png"),
@@ -161,7 +160,7 @@ namespace WpfAppCertificado
                 }
                 else
                 {
-                    // Intentar recurso embebido en el ensamblado
+                    
                     var asm = Assembly.GetExecutingAssembly();
                     var resName = asm.GetManifestResourceNames()
                                      .FirstOrDefault(n => n.EndsWith("logo.png", StringComparison.OrdinalIgnoreCase));
@@ -176,14 +175,12 @@ namespace WpfAppCertificado
                     }
                     else
                     {
-                        // Fallback visual si no se encuentra el logo
+                      
                         celdaLogo.Paragraphs[0].Append("[LOGO]").Bold().Color(Xceed.Drawing.Color.Red);
                     }
                 }
 
-                // Columna 2: Títulos
                 var celdaTexto = headerTable.Rows[0].Cells[1];
-                // Cualificar VerticalAlignment de Xceed para evitar conflicto con System.Windows
                 celdaTexto.VerticalAlignment = Xceed.Document.NET.VerticalAlignment.Center;
                 celdaTexto.Paragraphs[0].Append(datos.Institucion.ToString().ToUpper())
                                         .FontSize(16).Bold().Color(Xceed.Drawing.Color.DarkBlue).AppendLine()
@@ -191,7 +188,7 @@ namespace WpfAppCertificado
                                         .FontSize(14).Bold();
 
                 doc.InsertTable(headerTable);
-                doc.InsertParagraph(""); // Espaciador
+                doc.InsertParagraph(""); 
 
                 // ==========================================
                 // 2. DATOS DEL ESTUDIANTE
@@ -206,27 +203,26 @@ namespace WpfAppCertificado
                 // ==========================================
                 // 3. TABLA DE NOTAS
                 // ==========================================
-                // Columnas requeridas: Código, Asignatura, Créditos ECTS, Calificación
+
                 var notasRegistradasLocal = (System.Collections.IEnumerable)datos.NotasRegistradas;
 
-                // Contar filas para crear la tabla
+                
                 int rowCount = 0;
                 foreach (var _ in notasRegistradasLocal) rowCount++;
 
                 var tablaNotas = doc.AddTable(rowCount + 1, 4);
-                tablaNotas.Design = TableDesign.TableGrid; // Diseño limpio académico
+                tablaNotas.Design = TableDesign.TableGrid; 
                 tablaNotas.Alignment = Xceed.Document.NET.Alignment.center;
                 tablaNotas.AutoFit = AutoFit.Window;
 
-                // Cabeceras
+                
                 tablaNotas.Rows[0].Cells[0].Paragraphs[0].Append("CÓDIGO").Bold();
                 tablaNotas.Rows[0].Cells[1].Paragraphs[0].Append("ASIGNATURA").Bold();
                 tablaNotas.Rows[0].Cells[2].Paragraphs[0].Append("CRÉDITOS").Bold().Alignment = Xceed.Document.NET.Alignment.center;
                 tablaNotas.Rows[0].Cells[3].Paragraphs[0].Append("CALIFICACIÓN").Bold().Alignment = Xceed.Document.NET.Alignment.center;
 
-                // Rellenar datos
                 int i = 1;
-                double sumaCreditos = 0; // Para el total
+                double sumaCreditos = 0;
 
                 foreach (dynamic nota in notasRegistradasLocal)
                 {
@@ -252,11 +248,10 @@ namespace WpfAppCertificado
                 // ==========================================
                 // 5. PIE Y FIRMA
                 // ==========================================
-                doc.InsertParagraph("\n\n\n"); // Espacio para firma
+                doc.InsertParagraph("\n\n\n"); 
 
                 var pFirma = doc.InsertParagraph();
                 pFirma.Alignment = Xceed.Document.NET.Alignment.center;
-                // Formato de fecha solicitado: En Valladolid, a xx de xxx de xxxxx
                 string fechaTexto = $"En Valladolid, a {DateTime.Now.Day} de {DateTime.Now.ToString("MMMM")} de {DateTime.Now.Year}";
 
                 pFirma.Append(fechaTexto).AppendLine();

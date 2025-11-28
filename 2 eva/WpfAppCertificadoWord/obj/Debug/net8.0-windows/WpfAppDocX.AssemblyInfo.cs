@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WpfAppDocX")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54c07a29aad420c7c59a9f61f687e9f6ac870f7f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+375f744e26fcc58e0563d21e46ffc3b507723481")]
 [assembly: System.Reflection.AssemblyProductAttribute("WpfAppDocX")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WpfAppDocX")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WpfAppExcelXML")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8b2011ed1388b11e62f9863530ba146373e04b9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+375f744e26fcc58e0563d21e46ffc3b507723481")]
 [assembly: System.Reflection.AssemblyProductAttribute("WpfAppExcelXML")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WpfAppExcelXML")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

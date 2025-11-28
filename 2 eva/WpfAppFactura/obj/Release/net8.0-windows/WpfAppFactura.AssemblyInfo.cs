@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WpfAppFactura")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48da519b5ee97743acad270401d908e747043405")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+375f744e26fcc58e0563d21e46ffc3b507723481")]
 [assembly: System.Reflection.AssemblyProductAttribute("WpfAppFactura")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WpfAppFactura")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
