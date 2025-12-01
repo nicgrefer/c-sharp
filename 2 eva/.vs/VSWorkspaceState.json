@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\MauiApp1",
     "\\WpfAppCertificadoWord"
   ],
-  "SelectedNode": "\\WpfAppCertificadoWord\\MainWindow.xaml.cs",
+  "SelectedNode": "\\MauiApp1\\MauiApp1.sln",
   "PreviewInSolutionExplorer": false
 }
