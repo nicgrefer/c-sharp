@@ -1,0 +1,95 @@
+# Visual Studio
+.vs/
+*.vscode/
+*.user
+*.suo
+*.userosscache
+*.userprefs
+*.csproj.user
+*.pidb
+*.psess
+*.vsp
+*.vspscc
+*.docstates
+
+# Build Results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+*.log
+*.tlog
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Test Results and Coverage
+TestResults/
+*.coverage
+*.coveragexml
+*.testresult
+*.trx
+*.xunit.xml
+
+# Publish Results
+[Dd]ebug/
+[Rr]elease/
+out/
+publish/
+*.Publish.xml
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Rider
+.idea/
+*.sln.iml
+
+# DotCover
+*.dotCover
+
+# Other files
+*.dbmdl
+*.pdb
+*.mdb
+*.opendb
+*.cache
+*.sqlite
+*.swp
+
+# OS Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# JetBrains, Rider and VS Code folders
+.idea/
+*.vs/
+.vscode/
+*.code-workspace
+
+# Docker
+docker-compose.override.yml
+
+# Environment files
+.env
+.env.local
+
+# IIS
+*.vsconfig
+*.applicationhost.config
+
+# Others
+*.bak
+*.tmp
+*.temp
