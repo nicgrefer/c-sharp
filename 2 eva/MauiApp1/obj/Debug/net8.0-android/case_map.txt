@@ -8,7 +8,6 @@ animation\nav_default_pop_enter_anim;animation\nav_default_pop_enter_anim
 animation\nav_default_pop_exit_anim;animation\nav_default_pop_exit_anim
 drawable\maui_splash;drawable\maui_splash
 drawable\maui_splash_image;drawable\maui_splash_image
-images\dotnet_bot;images\dotnet_bot
 layout\drawer_layout;layout\drawer_layout
 layout\flyoutcontent;compatibility\Android\Resources\layout\flyoutcontent
 layout\fragment_backstack;layout\fragment_backstack
@@ -16,7 +15,6 @@ layout\navigationlayout;layout\navigationlayout
 layout\shellcontent;compatibility\Android\Resources\layout\shellcontent
 layout\tabbar;android\Resources\layout\Tabbar
 layout\toolbar;android\Resources\layout\Toolbar
-raw\aboutassets;raw\AboutAssets
 values\attr;values\attr
 values\attrs;android\Resources\values\attrs
 values\colors;values\colors

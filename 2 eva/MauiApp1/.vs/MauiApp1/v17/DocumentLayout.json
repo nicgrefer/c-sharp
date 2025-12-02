@@ -37,7 +37,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -68,6 +68,10 @@
               "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Microsoft.NET.Sdk.ImportWorkloads.targets",
@@ -75,7 +79,7 @@
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.307\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.ImportWorkloads.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.307\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.ImportWorkloads.targets",
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.307\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.ImportWorkloads.targets",
-              "ViewState": "AgIAABkAAAAAAAAAAAApwCUAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
               "WhenOpened": "2025-12-01T11:18:27.337Z",
               "EditorCaption": ""
@@ -152,10 +156,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-12-01T09:42:09.992Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="ShellTabs.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:ShellTabs"
+    Shell.FlyoutBehavior="Disabled">
+    <TabBar>
+        <Tab>
+            <ShellContent Title="Home"
+            ContentTemplate="{DataTemplate local:MainPage}"
+            Route="MainPage" />
+            <ShellContent Title="Uno"
+            ContentTemplate="{DataTemplate local:NewPage1}"
+            Route="Newpage1" />
+            <ShellContent Title="Dos"
+            ContentTemplate="{DataTemplate local:NewPage2}"
+            Route="Newpage2" />
+            <ShellContent Title="Tres"
+            ContentTemplate="{DataTemplate local:NewPage3}"
+            Route="Newpage3" />
+        </Tab>
+    </TabBar>
+</Shell>
