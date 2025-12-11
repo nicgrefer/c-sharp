@@ -1,0 +1,20 @@
+﻿<Window x:Class="WpfAppSpeech.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppSpeech"
+        mc:Ignorable="d"
+Title="Demo System.Speech WPF" Height="300" Width="400">
+    <StackPanel Margin="15">
+
+        <Label FontWeight="Bold">Locutor (Text-to-Speech)</Label>
+        <TextBox x:Name="TxtLocucion" Text="Hola, soy el asistente de voz. Puedes modificar este texto." Height="30" Margin="0,5,0,10" TextChanged="TxtLocucion_TextChanged"/>
+        <Button Content="Locutar Texto" Click="BtnLocutar_Click" Margin="0,0,0,20"/>
+
+        <Label FontWeight="Bold">Reconocimiento (Speech-to-Text)</Label>
+        <Button x:Name="BtnReconocimiento" Content="Iniciar Reconocimiento" Click="BtnReconocimiento_Click" Margin="0,5,0,10"/>
+        <TextBlock x:Name="TxtResultadoSR" Text="Resultado del reconocimiento aparecerá aquí." TextWrapping="WrapWithOverflow" FontStyle="Italic"/>
+
+    </StackPanel>
+</Window>
